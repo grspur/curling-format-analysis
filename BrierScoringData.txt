@@ -1,0 +1,575 @@
+Year,Stage,Match,Sheet,Team,Skip,LRFE,1,2,3,4,5,6,7,8,9,10,11,Score,Ends,Outcome,Margin
+2018,Round robin,Draw 1,A,New Brunswick,Grattan,0,0,2,0,2,1,0,0,2,2,,,9,9,W,6
+2018,Round robin,Draw 1,A,Nunavut,St.Louis,1,1,0,1,0,0,1,0,0,0,,,3,9,L,-6
+2018,Round robin,Draw 1,B,Saskatchewan,Laycock,0,1,0,0,1,0,0,0,0,0,,,2,9,L,-3
+2018,Round robin,Draw 1,B,Quebec,Fournier,1,0,0,1,0,0,1,0,2,1,,,5,9,W,3
+2018,Round robin,Draw 1,C,Prince Edward Island,MacKenzie,0,0,0,4,0,0,1,0,2,,,,7,8,L,-5
+2018,Round robin,Draw 1,C,Manitoba,Carruthers,1,3,3,0,1,2,0,3,0,,,,12,8,W,5
+2018,Round robin,Draw 1,D,Northern Ontario,Jacobs,1,0,1,0,0,1,0,0,1,0,1,,4,10,W,1
+2018,Round robin,Draw 1,D,Ontario,Epping,0,0,0,1,0,0,0,1,0,1,0,,3,10,L,-1
+2018,Round robin,Draw 2,A,Canada,Gushue,1,0,4,0,0,0,4,2,0,,,,10,8,W,8
+2018,Round robin,Draw 2,A,British Columbia,Geall,0,0,0,0,0,1,0,0,1,,,,2,8,L,-8
+2018,Round robin,Draw 2,B,Northwest Territories,Koe,0,0,2,0,2,0,2,1,1,0,1,,9,10,W,2
+2018,Round robin,Draw 2,B,Newfoundland and Labrador,Smith,1,1,0,2,0,4,0,0,0,0,0,,7,10,L,-2
+2018,Round robin,Draw 2,C,Nova Scotia,Murphy,0,0,0,2,0,2,1,0,1,0,0,1,7,11,W,1
+2018,Round robin,Draw 2,C,Alberta,Bottcher,1,0,0,0,2,0,0,2,0,1,1,0,6,11,L,-1
+2018,Round robin,Draw 2,D,Wild Card,McEwen,1,3,0,0,0,0,2,0,0,0,,,5,9,W,2
+2018,Round robin,Draw 2,D,Yukon,Scoffin,0,0,0,1,1,0,0,0,0,1,,,3,9,L,-2
+2018,Round robin,Draw 3,A,Saskatchewan,Laycock,0,0,0,0,2,0,1,0,0,1,1,0,5,11,L,-2
+2018,Round robin,Draw 3,A,Manitoba,Carruthers,1,0,1,0,0,2,0,1,1,0,0,2,7,11,W,2
+2018,Round robin,Draw 3,B,New Brunswick,Grattan,1,1,0,0,1,1,0,1,1,1,1,0,7,11,L,-2
+2018,Round robin,Draw 3,B,Ontario,Epping,0,0,3,2,0,0,2,0,0,0,0,2,9,11,W,2
+2018,Round robin,Draw 3,C,Northern Ontario,Jacobs,1,2,1,0,0,2,1,0,0,0,,,6,9,W,3
+2018,Round robin,Draw 3,C,Nunavut,St.Louis,0,0,0,0,1,0,0,0,1,1,,,3,9,L,-3
+2018,Round robin,Draw 3,D,Prince Edward Island,MacKenzie,0,1,0,0,0,1,0,0,3,0,2,,7,10,W,1
+2018,Round robin,Draw 3,D,Quebec,Fournier,1,0,0,3,0,0,0,2,0,1,0,,6,10,L,-1
+2018,Round robin,Draw 4,A,Northwest Territories,Koe,0,0,0,0,0,0,2,0,0,,,,2,8,L,-7
+2018,Round robin,Draw 4,A,Alberta,Bottcher,1,0,2,2,2,1,0,1,1,,,,9,8,W,7
+2018,Round robin,Draw 4,B,Canada,Gushue,0,2,2,0,2,1,0,1,0,,,,8,8,W,5
+2018,Round robin,Draw 4,B,Yukon,Scoffin,1,0,0,1,0,0,1,0,1,,,,3,8,L,-5
+2018,Round robin,Draw 4,C,Wild Card,McEwen,0,1,2,0,0,3,0,2,1,,,,9,8,W,6
+2018,Round robin,Draw 4,C,British Columbia,Geall,1,0,0,1,1,0,1,0,0,,,,3,8,L,-6
+2018,Round robin,Draw 4,D,Nova Scotia,Murphy,0,0,2,0,1,0,0,3,2,1,,,9,9,W,3
+2018,Round robin,Draw 4,D,Newfoundland and Labrador,Smith,1,1,0,3,0,1,1,0,0,0,,,6,9,L,-3
+2018,Round robin,Draw 5,A,Northern Ontario,Jacobs,0,0,1,0,2,4,2,0,0,,,,9,8,W,4
+2018,Round robin,Draw 5,A,Prince Edward Island,MacKenzie,1,1,0,2,0,0,0,1,1,,,,5,8,L,-4
+2018,Round robin,Draw 5,B,Nunavut,St.Louis,0,0,0,2,0,0,1,0,2,,,,5,8,L,-7
+2018,Round robin,Draw 5,B,Manitoba,Carruthers,1,2,1,0,2,4,0,3,0,,,,12,8,W,7
+2018,Round robin,Draw 5,C,Ontario,Epping,1,3,0,1,0,2,0,1,0,,,,7,8,W,4
+2018,Round robin,Draw 5,C,Quebec,Fournier,0,0,1,0,1,0,0,0,1,,,,3,8,L,-4
+2018,Round robin,Draw 5,D,New Brunswick,Grattan,1,0,3,0,0,0,0,1,0,,,,4,8,L,-5
+2018,Round robin,Draw 5,D,Saskatchewan,Laycock,0,2,0,2,1,1,1,0,2,,,,9,8,W,5
+2018,Round robin,Draw 6,A,Wild Card,McEwen,1,1,0,0,0,2,0,0,0,0,3,,6,10,W,1
+2018,Round robin,Draw 6,A,Nova Scotia,Murphy,0,0,0,1,0,0,0,2,1,1,0,,5,10,L,-1
+2018,Round robin,Draw 6,B,British Columbia,Geall,0,0,0,4,1,0,1,0,0,2,0,,8,10,L,-1
+2018,Round robin,Draw 6,B,Alberta,Bottcher,1,1,0,0,0,2,0,2,3,0,1,,9,10,W,1
+2018,Round robin,Draw 6,C,Yukon,Scoffin,0,0,1,0,1,0,0,2,0,1,1,,6,10,L,-1
+2018,Round robin,Draw 6,C,Newfoundland and Labrador,Smith,1,1,0,1,0,2,0,0,3,0,0,,7,10,W,1
+2018,Round robin,Draw 6,D,Canada,Gushue,1,1,0,0,2,0,2,0,3,,,,8,8,W,4
+2018,Round robin,Draw 6,D,Northwest Territories,Koe,0,0,0,2,0,1,0,1,0,,,,4,8,L,-4
+2018,Round robin,Draw 7,A,Manitoba,Carruthers,0,0,2,0,2,0,3,0,0,2,,,9,9,W,3
+2018,Round robin,Draw 7,A,Quebec,Fournier,1,1,0,1,0,1,0,2,1,0,,,6,9,L,-3
+2018,Round robin,Draw 7,B,Northern Ontario,Jacobs,1,1,1,0,2,1,0,3,0,1,,,9,9,W,5
+2018,Round robin,Draw 7,B,New Brunswick,Grattan,0,0,0,1,0,0,2,0,1,0,,,4,9,L,-5
+2018,Round robin,Draw 7,C,Saskatchewan,Laycock,0,0,0,1,0,2,0,1,0,2,0,1,7,11,W,1
+2018,Round robin,Draw 7,C,Prince Edward Island,MacKenzie,1,0,0,0,3,0,1,0,1,0,1,0,6,11,L,-1
+2018,Round robin,Draw 7,D,Ontario,Epping,1,2,1,3,3,0,1,0,4,,,,14,8,W,11
+2018,Round robin,Draw 7,D,Nunavut,St.Louis,0,0,0,0,0,2,0,1,0,,,,3,8,L,-11
+2018,Round robin,Draw 8,A,Alberta,Bottcher,1,1,0,1,1,2,0,4,0,,,,9,8,W,7
+2018,Round robin,Draw 8,A,Newfoundland and Labrador,Smith,0,0,0,0,0,0,2,0,0,,,,2,8,L,-7
+2018,Round robin,Draw 8,B,Wild Card,McEwen,0,0,2,0,1,0,1,0,0,1,,,5,9,L,-1
+2018,Round robin,Draw 8,B,Canada,Gushue,1,2,0,2,0,1,0,0,1,0,,,6,9,W,1
+2018,Round robin,Draw 8,C,Northwest Territories,Koe,1,1,0,0,1,1,0,0,1,1,2,,7,10,W,4
+2018,Round robin,Draw 8,C,Nova Scotia,Murphy,0,0,1,0,0,0,1,1,0,0,0,,3,10,L,-4
+2018,Round robin,Draw 8,D,Yukon,Scoffin,0,0,1,1,1,0,0,2,1,2,,,8,9,W,6
+2018,Round robin,Draw 8,D,British Columbia,Geall,1,1,0,0,0,1,0,0,0,0,,,2,9,L,-6
+2018,Round robin,Draw 9,A,Prince Edward Island,MacKenzie,0,0,0,0,2,0,2,0,2,0,0,,6,10,L,-3
+2018,Round robin,Draw 9,A,New Brunswick,Grattan,1,0,1,0,0,1,0,2,0,3,2,,9,10,W,3
+2018,Round robin,Draw 9,B,Quebec,Fournier,1,3,2,0,2,0,0,1,0,,,,8,8,W,5
+2018,Round robin,Draw 9,B,Nunavut,St.Louis,0,0,0,1,0,0,1,0,1,,,,3,8,L,-5
+2018,Round robin,Draw 9,C,Manitoba,Carruthers,0,0,2,0,1,0,1,0,1,0,,,5,9,L,-5
+2018,Round robin,Draw 9,C,Ontario,Epping,1,1,0,1,0,2,0,1,0,5,,,10,9,W,5
+2018,Round robin,Draw 9,D,Saskatchewan,Laycock,1,0,0,4,0,0,3,0,1,0,,,8,9,W,4
+2018,Round robin,Draw 9,D,Northern Ontario,Jacobs,0,0,0,0,1,1,0,1,0,1,,,4,9,L,-4
+2018,Round robin,Draw 10,A,Nova Scotia,Murphy,0,0,1,0,1,0,2,0,1,0,,,5,9,L,-4
+2018,Round robin,Draw 10,A,Canada,Gushue,1,1,0,2,0,2,0,2,0,2,,,9,9,W,4
+2018,Round robin,Draw 10,B,Newfoundland and Labrador,Smith,0,1,3,0,0,0,1,0,1,0,,,6,9,L,-6
+2018,Round robin,Draw 10,B,British Columbia,Geall,1,0,0,3,2,4,0,1,0,2,,,12,9,W,6
+2018,Round robin,Draw 10,C,Alberta,Bottcher,0,1,0,2,0,0,0,2,0,2,,,7,9,W,2
+2018,Round robin,Draw 10,C,Yukon,Scoffin,1,0,2,0,1,0,1,0,1,0,,,5,9,L,-2
+2018,Round robin,Draw 10,D,Northwest Territories,Koe,0,0,0,0,0,1,0,0,2,,,,3,8,L,-7
+2018,Round robin,Draw 10,D,Wild Card,McEwen,1,1,3,2,1,0,3,0,0,,,,10,8,W,7
+2018,Round robin,Draw 11,A,Quebec,Fournier,1,1,0,0,1,0,0,1,0,0,,,3,9,L,-4
+2018,Round robin,Draw 11,A,Northern Ontario,Jacobs,0,0,0,2,0,3,0,0,1,1,,,7,9,W,4
+2018,Round robin,Draw 11,B,Ontario,Epping,0,0,3,0,3,0,2,0,3,,,,11,8,W,7
+2018,Round robin,Draw 11,B,Prince Edward Island,MacKenzie,1,1,0,1,0,1,0,1,0,,,,4,8,L,-7
+2018,Round robin,Draw 11,C,Nunavut,St.Louis,0,0,2,0,0,0,0,0,1,,,,3,8,L,-7
+2018,Round robin,Draw 11,C,Saskatchewan,Laycock,1,2,0,2,1,1,4,0,0,,,,10,8,W,7
+2018,Round robin,Draw 11,D,Manitoba,Carruthers,1,0,2,0,1,0,0,2,0,2,,,7,9,W,4
+2018,Round robin,Draw 11,D,New Brunswick,Grattan,0,0,0,0,0,1,1,0,1,0,,,3,9,L,-4
+2018,Round robin,Draw 12,A,Newfoundland and Labrador,Smith,0,0,0,0,0,1,0,1,0,0,,,2,9,L,-4
+2018,Round robin,Draw 12,A,Wild Card,McEwen,1,0,1,0,1,0,2,0,2,0,,,6,9,W,4
+2018,Round robin,Draw 12,B,Yukon,Scoffin,0,0,0,1,0,1,0,0,0,2,,,4,9,L,-3
+2018,Round robin,Draw 12,B,Nova Scotia,Murphy,1,0,2,0,2,0,0,2,1,0,,,7,9,W,3
+2018,Round robin,Draw 12,C,British Columbia,Geall,0,0,0,2,1,0,1,0,2,1,,,7,9,W,4
+2018,Round robin,Draw 12,C,Northwest Territories,Koe,1,1,0,0,0,1,0,1,0,0,,,3,9,L,-4
+2018,Round robin,Draw 12,D,Alberta,Bottcher,0,1,0,1,0,3,0,2,0,3,,,10,9,W,3
+2018,Round robin,Draw 12,D,Canada,Gushue,1,0,3,0,1,0,1,0,2,0,,,7,9,L,-3
+2018,Round robin,Draw 13,A,Ontario,Epping,0,1,0,0,1,0,0,2,0,4,,,8,9,W,4
+2018,Round robin,Draw 13,A,Saskatchewan,Laycock,1,0,0,2,0,0,0,0,2,0,,,4,9,L,-4
+2018,Round robin,Draw 13,B,Manitoba,Carruthers,1,0,0,2,0,0,0,0,1,0,,,3,9,L,-3
+2018,Round robin,Draw 13,B,Northern Ontario,Jacobs,0,0,0,0,2,2,0,0,0,2,,,6,9,W,3
+2018,Round robin,Draw 13,C,Quebec,Fournier,1,2,1,0,0,0,1,0,1,0,1,1,7,11,W,1
+2018,Round robin,Draw 13,C,New Brunswick,Grattan,0,0,0,3,0,1,0,0,0,2,0,0,6,11,L,-1
+2018,Round robin,Draw 13,D,Nunavut,St.Louis,1,0,1,0,0,0,0,1,,,,,2,7,L,-12
+2018,Round robin,Draw 13,D,Prince Edward Island,MacKenzie,0,4,0,4,3,1,2,0,,,,,14,7,W,12
+2018,Round robin,Draw 14,A,Yukon,Scoffin,0,0,0,1,0,1,0,0,0,,,,2,8,L,-6
+2018,Round robin,Draw 14,A,Northwest Territories,Koe,1,0,2,0,3,0,0,2,1,,,,8,8,W,6
+2018,Round robin,Draw 14,B,Alberta,Bottcher,0,0,0,0,1,2,5,0,1,,,,9,8,W,7
+2018,Round robin,Draw 14,B,Wild Card,McEwen,1,0,1,0,0,0,0,1,0,,,,2,8,L,-7
+2018,Round robin,Draw 14,C,Newfoundland and Labrador,Smith,1,0,0,0,1,0,0,1,0,,,,2,8,L,-5
+2018,Round robin,Draw 14,C,Canada,Gushue,0,2,1,0,0,0,2,0,2,,,,7,8,W,5
+2018,Round robin,Draw 14,D,British Columbia,Geall,0,0,2,0,1,0,0,2,0,1,0,,6,10,L,-2
+2018,Round robin,Draw 14,D,Nova Scotia,Murphy,1,1,0,2,0,1,1,0,1,0,2,,8,10,W,2
+2017,Pre-qualifying,Draw 1,C,Nunavut,Nix,0,0,0,1,0,0,1,2,0,,,,4,8,L,-7
+2017,Pre-qualifying,Draw 1,C,Prince Edward Island,MacKenzie,1,2,1,0,3,4,0,0,1,,,,11,8,W,7
+2017,Pre-qualifying,Draw 1,D,Nova Scotia,Murphy,1,2,1,1,1,2,0,0,1,,,,8,8,W,6
+2017,Pre-qualifying,Draw 1,D,Yukon,Kochan,0,0,0,0,0,0,1,1,0,,,,2,8,L,-6
+2017,Pre-qualifying,Draw 2,A,Yukon,Kochan,1,1,0,1,1,0,2,3,0,2,2,,12,10,W,5
+2017,Pre-qualifying,Draw 2,A,Prince Edward Island,MacKenzie,0,0,2,0,0,4,0,0,1,0,0,,7,10,L,-5
+2017,Pre-qualifying,Draw 2,B,Nova Scotia,Murphy,1,3,2,4,3,0,4,0,1,,,,17,8,W,13
+2017,Pre-qualifying,Draw 2,B,Nunavut,Nix,0,0,0,0,0,2,0,2,0,,,,4,8,L,-13
+2017,Pre-qualifying,Draw 3,C,Yukon,Kochan,0,0,1,1,2,0,1,2,3,,,,10,8,W,9
+2017,Pre-qualifying,Draw 3,C,Nunavut,Nix,1,0,0,0,0,1,0,0,0,,,,1,8,L,-9
+2017,Pre-qualifying,Draw 3,D,Prince Edward Island,MacKenzie,0,0,0,0,0,0,0,1,0,,,,1,8,L,-9
+2017,Pre-qualifying,Draw 3,D,Nova Scotia,Murphy,1,1,2,1,3,0,1,0,2,,,,10,8,W,9
+2017,Pre-qualifying,Final,D,Nova Scotia,Murphy,1,1,0,3,0,2,0,3,0,0,,,9,9,W,3
+2017,Pre-qualifying,Final,D,Yukon,Kochan,0,0,2,0,1,0,0,0,2,1,,,6,9,L,-3
+2017,Round robin,Draw 1,A,British Columbia,Morris,0,1,2,0,1,0,2,0,0,1,,,7,9,L,-2
+2017,Round robin,Draw 1,A,Northern Ontario,Jacobs,1,0,0,3,0,3,0,1,2,0,,,9,9,W,2
+2017,Round robin,Draw 1,B,Saskatchewan,Casey,0,0,0,2,0,1,0,0,0,1,1,,5,10,L,-1
+2017,Round robin,Draw 1,B,Manitoba,McEwen,1,1,0,0,2,0,2,1,0,0,0,,6,10,W,1
+2017,Round robin,Draw 1,C,Newfoundland and Labrador,Gushue,0,0,2,0,2,0,1,0,3,0,,,8,9,W,2
+2017,Round robin,Draw 1,C,Alberta,Bottcher,1,1,0,1,0,1,0,2,0,1,,,6,9,L,-2
+2017,Round robin,Draw 2,B,Canada,K.Koe,0,0,0,1,2,0,0,2,0,2,,,7,9,W,2
+2017,Round robin,Draw 2,B,Quebec,Ménard,1,1,0,0,0,2,0,0,2,0,,,5,9,L,-2
+2017,Round robin,Draw 2,C,Ontario,Howard,1,1,1,0,0,0,0,0,1,0,2,0,5,11,L,-1
+2017,Round robin,Draw 2,C,Nova Scotia,Murphy,0,0,0,0,2,0,0,0,0,3,0,1,6,11,W,1
+2017,Round robin,Draw 2,D,New Brunswick,Kennedy,1,1,1,0,1,0,0,1,0,2,0,,6,10,W,1
+2017,Round robin,Draw 2,D,Northwest Territories,J.Koe,0,0,0,1,0,1,0,0,2,0,1,,5,10,L,-1
+2017,Round robin,Draw 3,A,Manitoba,McEwen,1,0,2,0,0,2,1,0,3,,,,8,8,W,4
+2017,Round robin,Draw 3,A,Newfoundland and Labrador,Gushue,0,1,0,2,0,0,0,1,0,,,,4,8,L,-4
+2017,Round robin,Draw 3,B,British Columbia,Morris,1,0,1,0,0,1,0,0,0,1,0,,3,10,L,-2
+2017,Round robin,Draw 3,B,Ontario,Howard,0,1,0,1,1,0,0,1,0,0,1,,5,10,W,2
+2017,Round robin,Draw 3,C,Canada,K.Koe,0,2,0,0,2,0,1,0,1,0,,,6,9,W,2
+2017,Round robin,Draw 3,C,Northern Ontario,Jacobs,1,0,2,0,0,1,0,1,0,0,,,4,9,L,-2
+2017,Round robin,Draw 3,D,Alberta,Bottcher,0,0,0,2,0,0,2,1,0,0,,,5,9,L,-6
+2017,Round robin,Draw 3,D,Saskatchewan,Casey,1,3,1,0,2,1,0,0,1,3,,,11,9,W,6
+2017,Round robin,Draw 4,A,Northwest Territories,J.Koe,0,0,0,2,0,0,0,1,0,,,,3,8,L,-5
+2017,Round robin,Draw 4,A,Saskatchewan,Casey,1,3,0,0,0,2,0,0,3,,,,8,8,W,5
+2017,Round robin,Draw 4,B,Alberta,Bottcher,0,0,2,0,1,1,1,0,1,0,,,6,9,L,-5
+2017,Round robin,Draw 4,B,Nova Scotia,Murphy,1,2,0,3,0,0,0,2,0,4,,,11,9,W,5
+2017,Round robin,Draw 4,C,British Columbia,Morris,1,1,0,3,0,1,0,0,3,,,,8,8,W,5
+2017,Round robin,Draw 4,C,New Brunswick,Kennedy,0,0,1,0,1,0,1,0,0,,,,3,8,L,-5
+2017,Round robin,Draw 4,D,Quebec,Ménard,1,0,2,0,0,2,0,0,2,0,2,0,8,11,L,-1
+2017,Round robin,Draw 4,D,Northern Ontario,Jacobs,0,1,0,0,2,0,2,2,0,1,0,1,9,11,W,1
+2017,Round robin,Draw 5,A,Quebec,Ménard,0,0,2,0,1,0,2,3,0,2,,,10,9,W,4
+2017,Round robin,Draw 5,A,Nova Scotia,Murphy,1,2,0,2,0,1,0,0,1,0,,,6,9,L,-4
+2017,Round robin,Draw 5,B,Newfoundland and Labrador,Gushue,0,0,2,2,0,0,1,0,0,0,,,5,9,W,1
+2017,Round robin,Draw 5,B,New Brunswick,Kennedy,1,1,0,0,0,2,0,1,0,0,,,4,9,L,-1
+2017,Round robin,Draw 5,C,Manitoba,McEwen,1,0,2,0,0,0,2,1,0,1,,,6,9,W,4
+2017,Round robin,Draw 5,C,Northwest Territories,J.Koe,0,0,0,0,1,0,0,0,1,0,,,2,9,L,-4
+2017,Round robin,Draw 5,D,Canada,K.Koe,0,0,1,0,1,0,1,0,0,0,2,,5,10,W,1
+2017,Round robin,Draw 5,D,Ontario,Howard,1,2,0,0,0,1,0,0,0,1,0,,4,10,L,-1
+2017,Round robin,Draw 6,A,Alberta,Bottcher,0,1,0,0,0,1,2,0,3,,,,7,8,W,5
+2017,Round robin,Draw 6,A,New Brunswick,Kennedy,1,0,1,0,0,0,0,1,0,,,,2,8,L,-5
+2017,Round robin,Draw 6,B,Northern Ontario,Jacobs,1,0,1,0,0,1,1,0,3,0,3,,9,10,W,4
+2017,Round robin,Draw 6,B,Northwest Territories,J.Koe,0,0,0,0,2,0,0,2,0,1,0,,5,10,L,-4
+2017,Round robin,Draw 6,C,Saskatchewan,Casey,0,0,2,0,0,0,1,0,0,,,,3,8,L,-5
+2017,Round robin,Draw 6,C,Quebec,Ménard,1,1,0,2,0,3,0,1,1,,,,8,8,W,5
+2017,Round robin,Draw 6,D,Nova Scotia,Murphy,0,0,0,0,0,0,0,1,1,1,0,,3,10,L,-1
+2017,Round robin,Draw 6,D,British Columbia,Morris,1,0,0,2,0,1,0,0,0,0,1,,4,10,W,1
+2017,Round robin,Draw 7,A,Canada,K.Koe,0,0,1,1,0,0,0,0,0,1,1,,4,10,L,-1
+2017,Round robin,Draw 7,A,British Columbia,Morris,1,2,0,0,2,0,0,1,0,0,0,,5,10,W,1
+2017,Round robin,Draw 7,B,Manitoba,McEwen,1,0,2,0,0,2,0,2,0,4,,,10,9,W,4
+2017,Round robin,Draw 7,B,Alberta,Bottcher,0,1,0,0,2,0,1,0,2,0,,,6,9,L,-4
+2017,Round robin,Draw 7,C,Northern Ontario,Jacobs,1,0,3,0,0,1,0,2,1,,,,7,8,W,5
+2017,Round robin,Draw 7,C,Ontario,Howard,0,0,0,1,0,0,1,0,0,,,,2,8,L,-5
+2017,Round robin,Draw 7,D,Saskatchewan,Casey,1,0,2,0,1,0,1,0,1,0,,,5,9,L,-5
+2017,Round robin,Draw 7,D,Newfoundland and Labrador,Gushue,0,1,0,2,0,2,0,1,0,4,,,10,9,W,5
+2017,Round robin,Draw 8,A,Newfoundland and Labrador,Gushue,1,1,0,0,0,0,1,0,2,0,0,,4,10,L,-4
+2017,Round robin,Draw 8,A,Northwest Territories,J.Koe,0,0,2,0,0,1,0,1,0,1,3,,8,10,W,4
+2017,Round robin,Draw 8,B,Nova Scotia,Murphy,1,0,1,0,2,0,0,1,0,1,,,5,9,L,-3
+2017,Round robin,Draw 8,B,Canada,K.Koe,0,0,0,3,0,0,2,0,3,0,,,8,9,W,3
+2017,Round robin,Draw 8,C,New Brunswick,Kennedy,1,1,0,0,3,1,0,2,0,0,0,,7,10,L,-2
+2017,Round robin,Draw 8,C,Manitoba,McEwen,0,0,2,0,0,0,1,0,2,2,2,,9,10,W,2
+2017,Round robin,Draw 8,D,Ontario,Howard,1,1,0,0,1,0,1,0,2,0,1,0,6,11,L,-1
+2017,Round robin,Draw 8,D,Quebec,Ménard,0,0,0,1,0,2,0,2,0,1,0,1,7,11,W,1
+2017,Round robin,Draw 9,A,Nova Scotia,Murphy,0,0,0,0,2,0,0,1,0,,,,3,8,L,-5
+2017,Round robin,Draw 9,A,Northern Ontario,Jacobs,1,2,0,2,0,3,0,0,1,,,,8,8,W,5
+2017,Round robin,Draw 9,B,New Brunswick,Kennedy,1,1,0,0,1,0,0,2,0,1,1,0,6,11,L,-1
+2017,Round robin,Draw 9,B,Saskatchewan,Casey,0,0,1,0,0,2,1,0,2,0,0,1,7,11,W,1
+2017,Round robin,Draw 9,C,Quebec,Ménard,1,0,0,0,0,1,0,1,1,1,0,1,5,11,W,1
+2017,Round robin,Draw 9,C,British Columbia,Morris,0,1,0,0,0,0,1,0,0,0,2,0,4,11,L,-1
+2017,Round robin,Draw 9,D,Northwest Territories,J.Koe,0,0,0,0,0,1,0,2,0,,,,3,8,L,-7
+2017,Round robin,Draw 9,D,Alberta,Bottcher,1,0,2,2,2,0,2,0,2,,,,10,8,W,7
+2017,Round robin,Draw 10,A,Saskatchewan,Casey,1,3,0,0,1,0,5,0,0,,,,9,8,W,4
+2017,Round robin,Draw 10,A,Ontario,Howard,0,0,0,2,0,2,0,1,0,,,,5,8,L,-4
+2017,Round robin,Draw 10,B,Northern Ontario,Jacobs,0,0,2,0,0,0,0,2,0,1,,,5,9,L,-2
+2017,Round robin,Draw 10,B,Newfoundland and Labrador,Gushue,1,2,0,0,0,2,1,0,2,0,,,7,9,W,2
+2017,Round robin,Draw 10,C,Canada,K.Koe,1,0,0,0,0,1,0,2,0,1,0,,4,10,L,-2
+2017,Round robin,Draw 10,C,Alberta,Bottcher,0,0,0,0,1,0,2,0,2,0,1,,6,10,W,2
+2017,Round robin,Draw 10,D,British Columbia,Morris,1,2,0,2,1,0,0,0,2,0,,,7,9,W,2
+2017,Round robin,Draw 10,D,Manitoba,McEwen,0,0,1,0,0,2,1,0,0,1,,,5,9,L,-2
+2017,Round robin,Draw 11,A,Quebec,Ménard,1,1,0,0,1,0,3,0,0,3,,,8,9,W,3
+2017,Round robin,Draw 11,A,Alberta,Bottcher,0,0,0,1,0,2,0,2,0,0,,,5,9,L,-3
+2017,Round robin,Draw 11,B,Northwest Territories,J.Koe,0,0,0,0,0,0,1,0,0,,,,1,8,L,-8
+2017,Round robin,Draw 11,B,British Columbia,Morris,1,2,0,1,3,1,0,1,1,,,,9,8,W,8
+2017,Round robin,Draw 11,C,Nova Scotia,Murphy,0,0,0,0,3,1,0,1,0,2,0,,7,10,L,-1
+2017,Round robin,Draw 11,C,Saskatchewan,Casey,1,0,1,3,0,0,2,0,1,0,1,,8,10,W,1
+2017,Round robin,Draw 11,D,Northern Ontario,Jacobs,0,0,0,2,1,1,0,0,1,0,1,,6,10,W,1
+2017,Round robin,Draw 11,D,New Brunswick,Kennedy,1,1,0,0,0,0,2,1,0,1,0,,5,10,L,-1
+2017,Round robin,Draw 12,A,Northern Ontario,Jacobs,1,2,0,0,1,0,0,1,0,1,0,,5,10,L,-1
+2017,Round robin,Draw 12,A,Manitoba,McEwen,0,0,1,0,0,0,1,0,2,0,2,,6,10,W,1
+2017,Round robin,Draw 12,B,Alberta,Bottcher,0,0,0,0,0,0,1,0,0,2,,,3,9,L,-3
+2017,Round robin,Draw 12,B,Ontario,Howard,1,0,0,1,1,1,0,2,1,0,,,6,9,W,3
+2017,Round robin,Draw 12,C,British Columbia,Morris,0,0,1,0,0,0,0,0,1,0,2,0,4,11,L,-1
+2017,Round robin,Draw 12,C,Newfoundland and Labrador,Gushue,1,1,0,0,2,0,0,0,0,1,0,1,5,11,W,1
+2017,Round robin,Draw 12,D,Canada,K.Koe,1,2,0,1,0,2,1,0,2,0,0,,8,10,W,1
+2017,Round robin,Draw 12,D,Saskatchewan,Casey,0,0,1,0,1,0,0,2,0,2,1,,7,10,L,-1
+2017,Round robin,Draw 13,A,Northwest Territories,J.Koe,0,0,2,0,1,0,0,0,2,1,0,,6,10,L,-2
+2017,Round robin,Draw 13,A,Canada,K.Koe,1,3,0,2,0,2,0,0,0,0,1,,8,10,W,2
+2017,Round robin,Draw 13,B,Nova Scotia,Murphy,0,0,1,0,1,1,0,0,0,0,,,3,9,L,-6
+2017,Round robin,Draw 13,B,Manitoba,McEwen,1,1,0,2,0,0,0,2,1,3,,,9,9,W,6
+2017,Round robin,Draw 13,C,Ontario,Howard,1,1,0,2,0,3,0,0,0,2,0,,8,10,W,2
+2017,Round robin,Draw 13,C,New Brunswick,Kennedy,0,0,2,0,1,0,1,0,1,0,1,,6,10,L,-2
+2017,Round robin,Draw 13,D,Newfoundland and Labrador,Gushue,0,0,1,0,3,0,0,1,0,2,,,7,9,W,4
+2017,Round robin,Draw 13,D,Quebec,Ménard,1,1,0,1,0,1,0,0,0,0,,,3,9,L,-4
+2017,Round robin,Draw 14,A,New Brunswick,Kennedy,1,2,1,0,2,0,0,1,0,1,,,7,9,L,-2
+2017,Round robin,Draw 14,A,Nova Scotia,Murphy,0,0,0,1,0,4,2,0,2,0,,,9,9,W,2
+2017,Round robin,Draw 14,B,Saskatchewan,Casey,1,1,0,1,0,1,0,2,0,0,,,5,9,L,-3
+2017,Round robin,Draw 14,B,Northern Ontario,Jacobs,0,0,2,0,1,0,2,0,2,1,,,8,9,W,3
+2017,Round robin,Draw 14,C,Northwest Territories,J.Koe,0,0,1,1,0,1,0,2,0,1,0,,6,10,L,-2
+2017,Round robin,Draw 14,C,Quebec,Ménard,1,2,0,0,2,0,2,0,1,0,1,,8,10,W,2
+2017,Round robin,Draw 14,D,Alberta,Bottcher,0,0,0,0,1,0,1,0,0,0,,,2,9,L,-3
+2017,Round robin,Draw 14,D,British Columbia,Morris,1,1,0,0,0,2,0,1,0,1,,,5,9,W,3
+2017,Round robin,Draw 15,A,Ontario,Howard,1,0,1,0,2,0,1,0,1,0,2,0,7,11,L,-1
+2017,Round robin,Draw 15,A,Newfoundland and Labrador,Gushue,0,0,0,3,0,2,0,1,0,1,0,1,8,11,W,1
+2017,Round robin,Draw 15,B,Quebec,Ménard,1,2,0,3,0,0,2,0,2,,,,9,8,W,5
+2017,Round robin,Draw 15,B,New Brunswick,Kennedy,0,0,2,0,0,1,0,1,0,,,,4,8,L,-5
+2017,Round robin,Draw 15,C,Manitoba,McEwen,0,0,0,0,0,2,0,0,1,0,0,,3,10,L,-3
+2017,Round robin,Draw 15,C,Canada,K.Koe,1,0,0,0,1,0,1,0,0,2,2,,6,10,W,3
+2017,Round robin,Draw 15,D,Northwest Territories,J.Koe,0,0,1,0,2,0,1,0,0,,,,4,8,L,-4
+2017,Round robin,Draw 15,D,Nova Scotia,Murphy,1,1,0,3,0,1,0,2,1,,,,8,8,W,4
+2017,Round robin,Draw 16,A,British Columbia,Morris,0,0,1,0,2,2,0,1,0,0,1,,7,10,W,1
+2017,Round robin,Draw 16,A,Saskatchewan,Casey,1,1,0,2,0,0,1,0,1,1,0,,6,10,L,-1
+2017,Round robin,Draw 16,B,Newfoundland and Labrador,Gushue,0,0,0,2,0,1,1,0,1,1,0,1,7,11,W,1
+2017,Round robin,Draw 16,B,Canada,K.Koe,1,3,0,0,1,0,0,1,0,0,1,0,6,11,L,-1
+2017,Round robin,Draw 16,C,Alberta,Bottcher,1,0,1,0,0,1,0,0,2,0,1,,5,10,L,-1
+2017,Round robin,Draw 16,C,Northern Ontario,Jacobs,0,0,0,2,0,0,2,0,0,2,0,,6,10,W,1
+2017,Round robin,Draw 16,D,Manitoba,McEwen,1,0,0,2,0,2,0,4,0,,,,8,8,W,5
+2017,Round robin,Draw 16,D,Ontario,Howard,0,0,0,0,1,0,1,0,1,,,,3,8,L,-5
+2017,Round robin,Draw 17,A,Manitoba,McEwen,1,0,0,1,0,0,1,1,1,1,,,5,9,W,3
+2017,Round robin,Draw 17,A,Quebec,Ménard,0,0,0,0,2,0,0,0,0,0,,,2,9,L,-3
+2017,Round robin,Draw 17,B,Ontario,Howard,1,1,0,2,0,0,1,0,1,0,1,,6,10,W,1
+2017,Round robin,Draw 17,B,Northwest Territories,J.Koe,0,0,2,0,1,0,0,1,0,1,0,,5,10,L,-1
+2017,Round robin,Draw 17,C,Newfoundland and Labrador,Gushue,1,1,0,0,1,1,0,2,0,1,,,6,9,W,3
+2017,Round robin,Draw 17,C,Nova Scotia,Murphy,0,0,0,1,0,0,1,0,1,0,,,3,9,L,-3
+2017,Round robin,Draw 17,D,New Brunswick,Kennedy,1,2,0,0,1,0,2,0,0,1,0,,6,10,L,-1
+2017,Round robin,Draw 17,D,Canada,K.Koe,0,0,0,2,0,1,0,1,2,0,1,,7,10,W,1
+2017,Playoffs,1vs2,B,Manitoba,McEwen,1,1,0,1,0,0,0,0,2,0,1,,5,10,L,-2
+2017,Playoffs,1vs2,B,Newfoundland and Labrador,Gushue,0,0,2,0,2,0,0,1,0,2,0,,7,10,W,2
+2017,Playoffs,3vs4,NA,Canada,K.Koe,1,1,1,0,0,1,0,0,1,2,,,6,9,W,4
+2017,Playoffs,3vs4,NA,Northern Ontario,Jacobs,0,0,0,0,0,0,2,0,0,0,,,2,9,L,-4
+2017,Playoffs,Semifinal,NA,Manitoba,McEwen,1,0,0,0,3,0,2,0,0,1,0,0,6,11,L,-1
+2017,Playoffs,Semifinal,NA,Canada,K.Koe,0,0,0,1,0,1,0,1,1,0,2,1,7,11,W,1
+2017,Playoffs,Third place,NA,Manitoba,McEwen,1,1,0,0,0,2,1,0,0,1,0,2,7,11,W,2
+2017,Playoffs,Third place,NA,Northern Ontario,Jacobs,0,0,0,1,1,0,0,0,2,0,1,0,5,11,L,-2
+2017,Playoffs,Final,C,Newfoundland and Labrador,Gushue,1,0,3,0,0,2,0,0,1,0,1,,7,10,W,1
+2017,Playoffs,Final,C,Canada,K.Koe,0,0,0,0,1,0,3,1,0,1,0,,6,10,L,-1
+2016,Pre-qualifying,Draw 1,C,Nova Scotia,Murphy,1,2,0,4,0,2,0,2,1,,,,11,8,W,8
+2016,Pre-qualifying,Draw 1,C,Yukon,Smallwood,0,0,1,0,1,0,1,0,0,,,,3,8,L,-8
+2016,Pre-qualifying,Draw 1,D,Northwest Territories,J.Koe,1,4,0,4,1,1,1,2,0,,,,13,8,W,11
+2016,Pre-qualifying,Draw 1,D,Nunavut,Kingdon,0,0,1,0,0,0,0,0,1,,,,2,8,L,-11
+2016,Pre-qualifying,Draw 2,A,Northwest Territories,J.Koe,0,0,1,0,0,2,0,0,2,0,1,,6,10,W,1
+2016,Pre-qualifying,Draw 2,A,Nova Scotia,Murphy,1,1,0,0,1,0,0,1,0,2,0,,5,10,L,-1
+2016,Pre-qualifying,Draw 2,B,Nunavut,Kingdon,0,0,0,0,1,0,2,0,1,,,,4,8,L,-10
+2016,Pre-qualifying,Draw 2,B,Yukon,Smallwood,1,3,2,4,0,4,0,1,0,,,,14,8,W,10
+2016,Pre-qualifying,Draw 3,C,Yukon,Smallwood,1,1,0,2,0,1,0,1,0,0,,,5,9,L,-2
+2016,Pre-qualifying,Draw 3,C,Northwest Territories,J.Koe,0,0,2,0,1,0,2,0,1,1,,,7,9,W,2
+2016,Pre-qualifying,Draw 3,D,Nunavut,Kingdon,0,0,0,0,0,1,0,1,0,,,,2,8,L,-14
+2016,Pre-qualifying,Draw 3,D,Nova Scotia,Murphy,1,4,1,4,2,0,2,0,3,,,,16,8,W,14
+2016,Pre-qualifying,Final,B,Northwest Territories,J.Koe,1,0,2,0,2,0,1,0,0,1,1,,7,10,W,3
+2016,Pre-qualifying,Final,B,Nova Scotia,Murphy,0,0,0,1,0,1,0,1,1,0,0,,4,10,L,-3
+2016,Round robin,Draw 1,A,Newfoundland and Labrador,Gushue,0,0,0,2,0,0,2,0,0,0,0,1,5,11,W,1
+2016,Round robin,Draw 1,A,Manitoba,McEwen,1,1,0,0,1,1,0,0,0,0,1,0,4,11,L,-1
+2016,Round robin,Draw 1,C,Canada,Simmons,1,0,2,0,1,1,1,0,0,2,,,7,9,W,5
+2016,Round robin,Draw 1,C,Quebec,Ménard,0,0,0,1,0,0,0,0,1,0,,,2,9,L,-5
+2016,Round robin,Draw 1,D,Ontario,Howard,0,0,1,0,0,0,2,0,1,0,0,1,5,11,W,1
+2016,Round robin,Draw 1,D,Alberta,K.Koe,1,1,0,2,0,0,0,0,0,0,1,0,4,11,L,-1
+2016,Round robin,Draw 2,A,Northern Ontario,Jacobs,1,0,0,2,0,0,2,0,0,1,0,1,6,11,W,1
+2016,Round robin,Draw 2,A,Saskatchewan,Laycock,0,1,0,0,1,0,0,0,2,0,1,0,5,11,L,-1
+2016,Round robin,Draw 2,B,Prince Edward Island,Casey,1,1,0,0,1,0,1,0,1,0,,,4,9,L,-4
+2016,Round robin,Draw 2,B,British Columbia,Cotter,0,0,2,1,0,1,0,3,0,1,,,8,9,W,4
+2016,Round robin,Draw 2,C,Northwest Territories,J.Koe,1,0,1,0,1,0,0,1,0,2,1,0,6,11,L,-1
+2016,Round robin,Draw 2,C,New Brunswick,Kennedy,0,0,0,2,0,2,1,0,1,0,0,1,7,11,W,1
+2016,Round robin,Draw 3,A,Alberta,K.Koe,1,2,0,0,2,0,3,0,3,,,,10,8,W,6
+2016,Round robin,Draw 3,A,New Brunswick,Kennedy,0,0,1,0,0,2,0,1,0,,,,4,8,L,-6
+2016,Round robin,Draw 3,B,Saskatchewan,Laycock,0,0,0,0,0,0,2,0,2,0,0,,4,10,L,-1
+2016,Round robin,Draw 3,B,Canada,Simmons,1,0,2,1,0,0,0,1,0,0,1,,5,10,W,1
+2016,Round robin,Draw 3,C,Ontario,Howard,0,0,0,0,1,0,0,0,1,,,,2,8,L,-4
+2016,Round robin,Draw 3,C,Manitoba,McEwen,1,0,1,0,0,2,0,3,0,,,,6,8,W,4
+2016,Round robin,Draw 3,D,Quebec,Ménard,0,0,0,2,0,1,0,0,0,0,1,0,4,11,L,-1
+2016,Round robin,Draw 3,D,Northern Ontario,Jacobs,1,0,2,0,1,0,0,0,0,1,0,1,5,11,W,1
+2016,Round robin,Draw 4,A,Northwest Territories,J.Koe,1,0,0,0,0,2,0,1,0,0,,,3,9,L,-3
+2016,Round robin,Draw 4,A,Canada,Simmons,0,2,0,0,0,0,2,0,2,0,,,6,9,W,3
+2016,Round robin,Draw 4,B,Newfoundland and Labrador,Gushue,1,0,0,0,1,0,1,0,0,0,1,0,3,11,L,-1
+2016,Round robin,Draw 4,B,Ontario,Howard,0,0,0,0,0,1,0,2,0,0,0,1,4,11,W,1
+2016,Round robin,Draw 4,C,Alberta,K.Koe,1,0,2,0,2,0,1,0,5,,,,10,8,W,6
+2016,Round robin,Draw 4,C,Prince Edward Island,Casey,0,0,0,2,0,1,0,1,0,,,,4,8,L,-6
+2016,Round robin,Draw 4,D,Saskatchewan,Laycock,0,0,0,2,0,2,0,4,0,,,,8,8,W,4
+2016,Round robin,Draw 4,D,British Columbia,Cotter,1,0,1,0,1,0,1,0,1,,,,4,8,L,-4
+2016,Round robin,Draw 5,A,Prince Edward Island,Casey,1,0,0,0,0,1,0,0,1,0,,,2,9,L,-2
+2016,Round robin,Draw 5,A,Quebec,Ménard,0,0,0,0,0,0,0,1,0,3,,,4,9,W,2
+2016,Round robin,Draw 5,B,Manitoba,McEwen,1,0,1,0,0,0,3,0,1,0,1,,6,10,W,3
+2016,Round robin,Draw 5,B,New Brunswick,Kennedy,0,0,0,0,0,1,0,1,0,1,0,,3,10,L,-3
+2016,Round robin,Draw 5,C,Northern Ontario,Jacobs,1,1,1,0,0,1,1,0,0,1,,,5,9,W,2
+2016,Round robin,Draw 5,C,British Columbia,Cotter,0,0,0,0,2,0,0,0,1,0,,,3,9,L,-2
+2016,Round robin,Draw 5,D,Newfoundland and Labrador,Gushue,0,0,1,0,0,2,0,1,0,2,,,6,9,W,3
+2016,Round robin,Draw 5,D,Northwest Territories,J.Koe,1,1,0,0,0,0,1,0,1,0,,,3,9,L,-3
+2016,Round robin,Draw 6,A,Ontario,Howard,0,0,1,0,1,0,1,0,2,0,0,,5,10,L,-4
+2016,Round robin,Draw 6,A,British Columbia,Cotter,1,0,0,2,0,1,0,3,0,1,2,,9,10,W,4
+2016,Round robin,Draw 6,B,Northwest Territories,J.Koe,0,0,3,0,1,0,2,0,0,0,1,0,7,11,L,-1
+2016,Round robin,Draw 6,B,Alberta,K.Koe,1,2,0,2,0,1,0,0,2,0,0,1,8,11,W,1
+2016,Round robin,Draw 6,C,Saskatchewan,Laycock,1,2,0,0,2,0,1,0,0,0,,,5,9,L,-2
+2016,Round robin,Draw 6,C,Newfoundland and Labrador,Gushue,0,0,1,1,0,1,0,3,0,1,,,7,9,W,2
+2016,Round robin,Draw 6,D,Canada,Simmons,0,0,0,0,2,0,0,0,1,1,0,,4,10,L,-2
+2016,Round robin,Draw 6,D,Prince Edward Island,Casey,1,0,2,0,0,0,1,1,0,0,2,,6,10,W,2
+2016,Round robin,Draw 7,A,Canada,Simmons,1,3,0,0,1,0,2,0,0,,,,6,8,L,-4
+2016,Round robin,Draw 7,A,Northern Ontario,Jacobs,0,0,4,1,0,1,0,3,1,,,,10,8,W,4
+2016,Round robin,Draw 7,B,Quebec,Ménard,0,0,1,0,2,0,0,0,0,0,,,3,9,L,-4
+2016,Round robin,Draw 7,B,Saskatchewan,Laycock,1,0,0,1,0,0,0,2,3,1,,,7,9,W,4
+2016,Round robin,Draw 7,C,New Brunswick,Kennedy,0,0,1,0,0,1,0,2,0,2,0,,6,10,L,-3
+2016,Round robin,Draw 7,C,Ontario,Howard,1,2,0,2,1,0,1,0,2,0,1,,9,10,W,3
+2016,Round robin,Draw 7,D,Alberta,K.Koe,1,2,0,0,4,0,2,0,1,,,,9,8,W,5
+2016,Round robin,Draw 7,D,Manitoba,McEwen,0,0,1,0,0,1,0,2,0,,,,4,8,L,-5
+2016,Round robin,Draw 8,A,Manitoba,McEwen,1,2,0,0,1,0,0,0,0,1,0,1,5,11,W,1
+2016,Round robin,Draw 8,A,Northwest Territories,J.Koe,0,0,2,0,0,1,0,0,0,0,1,0,4,11,L,-1
+2016,Round robin,Draw 8,B,New Brunswick,Kennedy,1,1,0,0,1,0,0,1,0,1,,,4,9,L,-3
+2016,Round robin,Draw 8,B,Newfoundland and Labrador,Gushue,0,0,2,1,0,0,2,0,2,0,,,7,9,W,3
+2016,Round robin,Draw 8,C,Prince Edward Island,Casey,0,0,0,1,0,0,0,0,1,0,,,2,9,L,-4
+2016,Round robin,Draw 8,C,Northern Ontario,Jacobs,1,2,1,0,0,0,2,0,0,1,,,6,9,W,4
+2016,Round robin,Draw 8,D,British Columbia,Cotter,1,0,1,0,1,0,1,0,0,2,0,,5,10,L,-1
+2016,Round robin,Draw 8,D,Quebec,Ménard,0,0,0,1,0,1,0,1,1,0,2,,6,10,W,1
+2016,Round robin,Draw 9,A,Saskatchewan,Laycock,0,1,0,2,0,1,0,2,0,1,1,,8,10,W,3
+2016,Round robin,Draw 9,A,Prince Edward Island,Casey,1,0,1,0,1,0,2,0,1,0,0,,5,10,L,-3
+2016,Round robin,Draw 9,B,British Columbia,Cotter,1,2,0,0,0,1,0,0,1,0,,,4,9,L,-4
+2016,Round robin,Draw 9,B,Canada,Simmons,0,0,0,0,5,0,1,0,0,2,,,8,9,W,4
+2016,Round robin,Draw 9,C,Newfoundland and Labrador,Gushue,0,0,0,0,1,0,2,0,0,0,1,,4,10,W,1
+2016,Round robin,Draw 9,C,Alberta,K.Koe,1,0,0,0,0,1,0,1,1,0,0,,3,10,L,-1
+2016,Round robin,Draw 9,D,Northwest Territories,J.Koe,0,0,1,0,2,0,0,0,4,1,,,8,9,W,3
+2016,Round robin,Draw 9,D,Ontario,Howard,1,1,0,2,0,0,2,0,0,0,,,5,9,L,-3
+2016,Round robin,Draw 10,A,Quebec,Ménard,1,2,0,1,0,1,0,2,0,3,,,9,9,W,4
+2016,Round robin,Draw 10,A,Ontario,Howard,0,0,1,0,2,0,1,0,1,0,,,5,9,L,-4
+2016,Round robin,Draw 10,B,Alberta,K.Koe,1,2,0,0,1,0,0,0,0,,,,3,8,L,-5
+2016,Round robin,Draw 10,B,Northern Ontario,Jacobs,0,0,0,4,0,0,2,1,1,,,,8,8,W,5
+2016,Round robin,Draw 10,C,Manitoba,McEwen,0,0,1,0,0,0,1,0,0,4,,,6,9,W,2
+2016,Round robin,Draw 10,C,Canada,Simmons,1,0,0,0,2,1,0,0,1,0,,,4,9,L,-2
+2016,Round robin,Draw 10,D,New Brunswick,Kennedy,0,0,0,2,0,1,1,0,2,0,1,,7,10,W,1
+2016,Round robin,Draw 10,D,Saskatchewan,Laycock,1,0,1,0,2,0,0,0,0,3,0,,6,10,L,-1
+2016,Round robin,Draw 11,A,British Columbia,Cotter,0,0,0,0,1,0,1,0,0,,,,2,8,L,-5
+2016,Round robin,Draw 11,A,Alberta,K.Koe,1,0,3,0,0,2,0,1,1,,,,7,8,W,5
+2016,Round robin,Draw 11,B,Ontario,Howard,0,1,0,1,3,0,2,2,0,,,,9,8,W,5
+2016,Round robin,Draw 11,B,Prince Edward Island,Casey,1,0,2,0,0,1,0,0,1,,,,4,8,L,-5
+2016,Round robin,Draw 11,C,Northwest Territories,J.Koe,0,1,0,0,0,1,0,0,0,0,2,0,4,11,L,-1
+2016,Round robin,Draw 11,C,Saskatchewan,Laycock,1,0,0,0,1,0,1,0,1,1,0,1,5,11,W,1
+2016,Round robin,Draw 11,D,Newfoundland and Labrador,Gushue,1,0,3,2,0,0,0,0,0,2,,,7,9,W,4
+2016,Round robin,Draw 11,D,Canada,Simmons,0,0,0,0,2,0,0,0,1,0,,,3,9,L,-4
+2016,Round robin,Draw 12,A,New Brunswick,Kennedy,1,0,2,0,0,0,1,0,1,0,0,,4,10,L,-2
+2016,Round robin,Draw 12,A,Canada,Simmons,0,0,0,1,0,0,0,2,0,0,3,,6,10,W,2
+2016,Round robin,Draw 12,B,Saskatchewan,Laycock,0,0,0,1,0,1,1,0,1,1,0,,5,10,L,-1
+2016,Round robin,Draw 12,B,Manitoba,McEwen,1,2,1,0,1,0,0,1,0,0,1,,6,10,W,1
+2016,Round robin,Draw 12,C,Alberta,K.Koe,1,2,0,1,0,2,0,0,4,,,,9,8,W,5
+2016,Round robin,Draw 12,C,Quebec,Ménard,0,0,1,0,2,0,1,0,0,,,,4,8,L,-5
+2016,Round robin,Draw 12,D,Ontario,Howard,1,1,0,0,0,2,0,1,0,0,0,,4,10,L,-2
+2016,Round robin,Draw 12,D,Northern Ontario,Jacobs,0,0,0,0,1,0,1,0,3,0,1,,6,10,W,2
+2016,Round robin,Draw 13,A,Northwest Territories,J.Koe,0,0,0,1,0,1,0,0,0,,,,2,8,L,-7
+2016,Round robin,Draw 13,A,Northern Ontario,Jacobs,1,2,3,0,3,0,0,1,0,,,,9,8,W,7
+2016,Round robin,Draw 13,B,Newfoundland and Labrador,Gushue,0,0,0,2,0,2,0,1,1,0,1,,7,10,W,1
+2016,Round robin,Draw 13,B,Quebec,Ménard,1,1,2,0,1,0,1,0,0,1,0,,6,10,L,-1
+2016,Round robin,Draw 13,C,New Brunswick,Kennedy,1,1,2,0,1,0,1,0,2,0,,,7,9,W,3
+2016,Round robin,Draw 13,C,Prince Edward Island,Casey,0,0,0,1,0,1,0,1,0,1,,,4,9,L,-3
+2016,Round robin,Draw 13,D,Manitoba,McEwen,0,0,0,0,2,0,0,3,1,2,,,8,9,W,5
+2016,Round robin,Draw 13,D,British Columbia,Cotter,1,2,0,0,0,0,1,0,0,0,,,3,9,L,-5
+2016,Round robin,Draw 14,A,Ontario,Howard,0,0,0,0,1,0,2,0,0,1,0,,4,10,L,-3
+2016,Round robin,Draw 14,A,Saskatchewan,Laycock,1,0,0,2,0,2,0,0,2,0,1,,7,10,W,3
+2016,Round robin,Draw 14,B,Canada,Simmons,0,0,0,0,1,0,1,0,1,0,,,3,9,L,-5
+2016,Round robin,Draw 14,B,Alberta,K.Koe,1,2,0,0,0,3,0,1,0,2,,,8,9,W,5
+2016,Round robin,Draw 14,C,British Columbia,Cotter,0,0,3,0,1,0,0,1,0,2,0,,7,10,L,-1
+2016,Round robin,Draw 14,C,Newfoundland and Labrador,Gushue,1,2,0,1,0,2,1,0,1,0,1,,8,10,W,1
+2016,Round robin,Draw 14,D,Prince Edward Island,Casey,1,2,0,0,2,0,2,0,1,0,,,7,9,W,3
+2016,Round robin,Draw 14,D,Northwest Territories,J.Koe,0,0,1,0,0,2,0,1,0,0,,,4,9,L,-3
+2016,Round robin,Draw 15,A,Prince Edward Island,Casey,1,2,0,0,2,0,2,0,1,0,,,7,9,L,-4
+2016,Round robin,Draw 15,A,Newfoundland and Labrador,Gushue,0,0,2,3,0,2,0,3,0,1,,,11,9,W,4
+2016,Round robin,Draw 15,B,British Columbia,Cotter,1,1,0,0,3,0,0,2,0,2,0,,8,10,L,-1
+2016,Round robin,Draw 15,B,Northwest Territories,J.Koe,0,0,2,1,0,0,2,0,2,0,2,,9,10,W,1
+2016,Round robin,Draw 15,C,Northern Ontario,Jacobs,1,0,1,1,0,2,0,3,0,1,,,8,9,W,3
+2016,Round robin,Draw 15,C,Manitoba,McEwen,0,0,0,0,2,0,2,0,1,0,,,5,9,L,-3
+2016,Round robin,Draw 15,D,New Brunswick,Kennedy,1,0,1,0,2,0,2,0,2,0,,,7,9,L,-2
+2016,Round robin,Draw 15,D,Quebec,Ménard,0,0,0,2,0,3,0,2,0,2,,,9,9,W,2
+2016,Round robin,Draw 16,A,Manitoba,McEwen,1,0,1,0,0,0,2,0,4,1,0,,8,10,W,2
+2016,Round robin,Draw 16,A,Quebec,Ménard,0,0,0,0,2,1,0,2,0,0,1,,6,10,L,-2
+2016,Round robin,Draw 16,B,Northern Ontario,Jacobs,1,2,0,3,1,0,2,2,0,,,,10,8,W,5
+2016,Round robin,Draw 16,B,New Brunswick,Kennedy,0,0,2,0,0,2,0,0,1,,,,5,8,L,-5
+2016,Round robin,Draw 16,C,Canada,Simmons,0,0,0,0,1,0,3,0,1,2,2,,9,10,W,1
+2016,Round robin,Draw 16,C,Ontario,Howard,1,0,2,1,0,1,0,4,0,0,0,,8,10,L,-1
+2016,Round robin,Draw 16,D,Saskatchewan,Laycock,1,0,1,0,0,0,2,0,2,0,0,,5,10,L,-2
+2016,Round robin,Draw 16,D,Alberta,K.Koe,0,1,0,0,1,1,0,2,0,1,1,,7,10,W,2
+2016,Round robin,Draw 17,A,British Columbia,Cotter,0,0,1,0,2,0,2,0,0,0,2,,7,10,W,2
+2016,Round robin,Draw 17,A,New Brunswick,Kennedy,1,1,0,1,0,1,0,0,1,1,0,,5,10,L,-2
+2016,Round robin,Draw 17,B,Manitoba,McEwen,1,1,0,0,2,2,0,0,3,,,,8,8,W,5
+2016,Round robin,Draw 17,B,Prince Edward Island,Casey,0,0,2,0,0,0,0,1,0,,,,3,8,L,-5
+2016,Round robin,Draw 17,C,Quebec,Ménard,0,1,0,1,0,1,0,0,2,0,1,,6,10,L,-2
+2016,Round robin,Draw 17,C,Northwest Territories,J.Koe,1,0,2,0,1,0,4,0,0,1,0,,8,10,W,2
+2016,Round robin,Draw 17,D,Northern Ontario,Jacobs,1,0,0,0,0,0,1,1,0,0,2,,4,10,W,3
+2016,Round robin,Draw 17,D,Newfoundland and Labrador,Gushue,0,0,0,0,0,0,0,0,1,0,0,,1,10,L,-3
+2016,Playoffs,1vs2,B,Newfoundland and Labrador,Gushue,0,0,0,1,0,0,2,2,0,1,0,1,7,11,W,1
+2016,Playoffs,1vs2,B,Northern Ontario,Jacobs,1,2,0,0,0,2,0,0,1,0,1,0,6,11,L,-1
+2016,Playoffs,3vs4,B,Manitoba,McEwen,0,0,0,1,0,0,1,0,2,0,1,,5,10,L,-2
+2016,Playoffs,3vs4,B,Alberta,K.Koe,1,0,2,0,2,1,0,1,0,1,0,,7,10,W,2
+2016,Playoffs,Semifinal,B,Alberta,K.Koe,0,0,1,0,1,0,1,0,1,0,2,,6,10,W,1
+2016,Playoffs,Semifinal,B,Northern Ontario,Jacobs,1,1,0,1,0,1,0,1,0,1,0,,5,10,L,-1
+2016,Playoffs,Third place,B,Manitoba,McEwen,0,2,0,0,0,0,2,0,0,0,2,0,6,11,L,-1
+2016,Playoffs,Third place,B,Northern Ontario,Jacobs,1,0,2,0,1,1,0,0,2,0,0,1,7,11,W,1
+2016,Playoffs,Final,B,Newfoundland and Labrador,Gushue,1,0,0,1,0,1,1,0,2,0,,,5,9,L,-4
+2016,Playoffs,Final,B,Alberta,K.Koe,0,1,1,0,2,0,0,3,0,2,,,9,9,W,4
+2015,Pre-qualifying,Draw 1,B,Yukon,Smallwood,1,2,2,0,1,1,1,1,,,,,8,7,W,7
+2015,Pre-qualifying,Draw 1,B,Prince Edward Island,Casey,0,0,0,1,0,0,0,0,,,,,1,7,L,-7
+2015,Pre-qualifying,Draw 2,B,Nova Scotia,MacLeod,1,2,0,3,0,0,1,0,1,2,,,9,9,W,4
+2015,Pre-qualifying,Draw 2,B,Yukon,Smallwood,0,0,2,0,2,1,0,0,0,0,,,5,9,L,-4
+2015,Pre-qualifying,Draw 3,B,Prince Edward Island,Casey,1,2,0,1,4,0,2,0,2,,,,11,8,W,8
+2015,Pre-qualifying,Draw 3,B,Nova Scotia,MacLeod,0,0,1,0,0,1,0,1,0,,,,3,8,L,-8
+2015,Pre-qualifying,Final,D,Yukon,Smallwood,1,1,1,0,0,0,2,0,0,1,1,0,6,11,L,-1
+2015,Pre-qualifying,Final,D,Prince Edward Island,Casey,0,0,0,3,1,1,0,0,1,0,0,1,7,11,W,1
+2015,Round robin,Draw 1,A,Northern Ontario,Jacobs,1,0,2,0,1,0,1,0,2,0,1,,7,10,W,3
+2015,Round robin,Draw 1,A,Quebec,Ménard,0,0,0,1,0,1,0,1,0,1,0,,4,10,L,-3
+2015,Round robin,Draw 1,B,Saskatchewan,Laycock,0,0,0,0,1,0,1,0,3,0,0,,5,10,L,-2
+2015,Round robin,Draw 1,B,Newfoundland and Labrador,Gushue,1,0,1,0,0,2,0,1,0,0,3,,7,10,W,2
+2015,Round robin,Draw 1,C,Canada,Morris,1,0,1,0,0,0,2,1,1,0,1,,6,10,W,2
+2015,Round robin,Draw 1,C,Manitoba,Carruthers,0,0,0,2,0,1,0,0,0,1,0,,4,10,L,-2
+2015,Round robin,Draw 2,A,Manitoba,Carruthers,0,0,1,0,0,1,0,0,2,0,,,4,9,L,-3
+2015,Round robin,Draw 2,A,Saskatchewan,Laycock,1,2,0,0,2,0,0,2,0,1,,,7,9,W,3
+2015,Round robin,Draw 2,B,Alberta,K.Koe,0,0,1,0,2,0,1,1,0,0,2,0,7,11,L,-1
+2015,Round robin,Draw 2,B,British Columbia,Cotter,1,1,0,2,0,2,0,0,0,2,0,1,8,11,W,1
+2015,Round robin,Draw 2,C,Ontario,Kean,1,1,0,2,0,3,0,0,0,1,1,,8,10,W,1
+2015,Round robin,Draw 2,C,Prince Edward Island,Casey,0,0,1,0,2,0,2,1,1,0,0,,7,10,L,-1
+2015,Round robin,Draw 2,D,Northwest Territories,J.Koe,0,0,0,2,0,2,0,0,0,1,0,,5,10,L,-1
+2015,Round robin,Draw 2,D,New Brunswick,Mallais,1,1,0,0,1,0,0,1,1,0,2,,6,10,W,1
+2015,Round robin,Draw 3,B,Ontario,Kean,1,2,0,3,0,2,0,1,0,1,0,,9,10,W,1
+2015,Round robin,Draw 3,B,Quebec,Ménard,0,0,2,0,1,0,2,0,2,0,1,,8,10,L,-1
+2015,Round robin,Draw 3,C,Northern Ontario,Jacobs,1,0,2,0,0,2,0,2,0,3,,,9,9,W,4
+2015,Round robin,Draw 3,C,Alberta,K.Koe,0,0,0,2,1,0,1,0,1,0,,,5,9,L,-4
+2015,Round robin,Draw 3,D,Newfoundland and Labrador,Gushue,1,0,3,0,2,0,1,0,1,0,0,2,9,11,W,2
+2015,Round robin,Draw 3,D,Canada,Morris,0,0,0,1,0,2,0,3,0,0,1,0,7,11,L,-2
+2015,Round robin,Draw 4,A,Newfoundland and Labrador,Gushue,0,1,0,3,0,0,1,0,3,0,,,8,9,W,3
+2015,Round robin,Draw 4,A,Northwest Territories,J.Koe,1,0,1,0,1,1,0,1,0,1,,,5,9,L,-3
+2015,Round robin,Draw 4,B,Prince Edward Island,Casey,0,1,0,1,2,0,0,1,0,1,1,,7,10,W,3
+2015,Round robin,Draw 4,B,Canada,Morris,1,0,1,0,0,1,1,0,1,0,0,,4,10,L,-3
+2015,Round robin,Draw 4,C,New Brunswick,Mallais,1,1,0,1,1,0,1,0,1,0,,,5,9,L,-3
+2015,Round robin,Draw 4,C,Quebec,Ménard,0,0,2,0,0,3,0,2,0,1,,,8,9,W,3
+2015,Round robin,Draw 4,D,Northern Ontario,Jacobs,1,2,0,1,0,1,0,0,1,2,0,,7,10,W,2
+2015,Round robin,Draw 4,D,British Columbia,Cotter,0,0,2,0,1,0,1,0,0,0,1,,5,10,L,-2
+2015,Round robin,Draw 5,A,Prince Edward Island,Casey,1,0,1,0,1,0,2,0,2,0,0,,6,10,W,1
+2015,Round robin,Draw 5,A,British Columbia,Cotter,0,0,0,1,0,1,0,1,0,1,1,,5,10,L,-1
+2015,Round robin,Draw 5,B,New Brunswick,Mallais,0,0,1,0,0,2,0,0,1,0,,,4,9,L,-5
+2015,Round robin,Draw 5,B,Manitoba,Carruthers,1,1,0,2,1,0,2,1,0,2,,,9,9,W,5
+2015,Round robin,Draw 5,C,Northwest Territories,J.Koe,0,0,1,0,0,2,1,0,2,,,,6,8,L,-4
+2015,Round robin,Draw 5,C,Saskatchewan,Laycock,1,2,0,0,4,0,0,4,0,,,,10,8,W,4
+2015,Round robin,Draw 5,D,Ontario,Kean,1,1,0,0,1,0,1,0,0,0,,,3,9,L,-4
+2015,Round robin,Draw 5,D,Alberta,K.Koe,0,0,2,0,0,2,0,0,2,1,,,7,9,W,4
+2015,Round robin,Draw 6,A,New Brunswick,Mallais,0,0,2,0,1,0,0,2,0,0,0,,5,10,L,-1
+2015,Round robin,Draw 6,A,Canada,Morris,1,1,0,1,0,0,1,0,1,0,2,,6,10,W,1
+2015,Round robin,Draw 6,B,Northwest Territories,J.Koe,0,0,0,0,1,0,1,0,2,,,,4,8,L,-5
+2015,Round robin,Draw 6,B,Northern Ontario,Jacobs,1,0,2,1,0,4,0,2,0,,,,9,8,W,5
+2015,Round robin,Draw 6,C,Newfoundland and Labrador,Gushue,1,0,2,0,1,0,0,0,0,0,0,,3,10,L,-3
+2015,Round robin,Draw 6,C,British Columbia,Cotter,0,0,0,2,0,0,0,0,1,1,2,,6,10,W,3
+2015,Round robin,Draw 6,D,Prince Edward Island,Casey,0,0,0,2,0,2,0,0,0,1,0,,5,10,L,-1
+2015,Round robin,Draw 6,D,Quebec,Ménard,1,0,1,0,2,0,2,0,0,0,1,,6,10,W,1
+2015,Round robin,Draw 7,A,Alberta,K.Koe,0,1,0,2,0,0,1,1,1,0,1,,7,10,W,2
+2015,Round robin,Draw 7,A,Quebec,Ménard,1,0,2,0,1,0,0,0,0,2,0,,5,10,L,-2
+2015,Round robin,Draw 7,B,Saskatchewan,Laycock,1,3,0,1,3,0,1,0,0,,,,8,8,W,4
+2015,Round robin,Draw 7,B,Canada,Morris,0,0,0,0,0,2,0,1,1,,,,4,8,L,-4
+2015,Round robin,Draw 7,C,Northern Ontario,Jacobs,1,0,0,3,1,0,0,2,0,1,,,7,9,W,4
+2015,Round robin,Draw 7,C,Ontario,Kean,0,0,0,0,0,0,1,0,2,0,,,3,9,L,-4
+2015,Round robin,Draw 7,D,Manitoba,Carruthers,1,2,0,0,0,2,0,3,0,1,,,8,9,W,3
+2015,Round robin,Draw 7,D,Newfoundland and Labrador,Gushue,0,0,0,1,1,0,1,0,2,0,,,5,9,L,-3
+2015,Round robin,Draw 8,A,Manitoba,Carruthers,0,1,2,0,5,0,2,0,1,,,,11,8,W,8
+2015,Round robin,Draw 8,A,Northwest Territories,J.Koe,1,0,0,1,0,1,0,1,0,,,,3,8,L,-8
+2015,Round robin,Draw 8,B,Prince Edward Island,Casey,0,0,1,0,2,0,0,0,1,,,,4,8,L,-4
+2015,Round robin,Draw 8,B,Alberta,K.Koe,1,2,0,3,0,2,0,1,0,,,,8,8,W,4
+2015,Round robin,Draw 8,C,Saskatchewan,Laycock,0,1,0,0,2,0,1,0,3,0,,,7,9,W,3
+2015,Round robin,Draw 8,C,New Brunswick,Mallais,1,0,0,1,0,2,0,0,0,1,,,4,9,L,-3
+2015,Round robin,Draw 8,D,Ontario,Kean,0,0,0,0,1,0,0,0,2,0,,,3,9,L,-5
+2015,Round robin,Draw 8,D,British Columbia,Cotter,1,0,2,1,0,1,0,0,0,4,,,8,9,W,5
+2015,Round robin,Draw 9,A,Northern Ontario,Jacobs,1,1,1,2,2,3,1,0,1,,,,11,8,W,10
+2015,Round robin,Draw 9,A,Prince Edward Island,Casey,0,0,0,0,0,0,0,1,0,,,,1,8,L,-10
+2015,Round robin,Draw 9,B,Newfoundland and Labrador,Gushue,1,1,1,1,0,2,0,2,3,,,,10,8,W,8
+2015,Round robin,Draw 9,B,New Brunswick,Mallais,0,0,0,0,1,0,1,0,0,,,,2,8,L,-8
+2015,Round robin,Draw 9,C,Quebec,Ménard,0,0,0,2,0,2,0,0,0,4,0,,8,10,W,2
+2015,Round robin,Draw 9,C,British Columbia,Cotter,1,0,1,0,1,0,1,1,1,0,1,,6,10,L,-2
+2015,Round robin,Draw 9,D,Northwest Territories,J.Koe,0,0,0,0,1,0,0,1,0,1,0,,3,10,L,-3
+2015,Round robin,Draw 9,D,Canada,Simmons,1,0,0,1,0,1,2,0,1,0,1,,6,10,W,3
+2015,Round robin,Draw 10,A,Newfoundland and Labrador,Gushue,1,2,0,0,2,0,0,1,1,0,2,,8,10,W,2
+2015,Round robin,Draw 10,A,Ontario,Kean,0,0,2,1,0,1,1,0,0,1,0,,6,10,L,-2
+2015,Round robin,Draw 10,B,Manitoba,Carruthers,0,0,0,0,0,1,0,1,0,,,,2,8,L,-5
+2015,Round robin,Draw 10,B,Northern Ontario,Jacobs,1,2,2,0,0,0,2,0,1,,,,7,8,W,5
+2015,Round robin,Draw 10,C,Canada,Simmons,0,0,2,0,1,0,0,0,0,2,1,,6,10,W,3
+2015,Round robin,Draw 10,C,Alberta,K.Koe,1,1,0,1,0,0,1,0,0,0,0,,3,10,L,-3
+2015,Round robin,Draw 10,D,Quebec,Ménard,1,2,0,2,0,0,0,1,0,0,2,,7,10,W,2
+2015,Round robin,Draw 10,D,Saskatchewan,Laycock,0,0,1,0,2,0,0,0,1,1,0,,5,10,L,-2
+2015,Round robin,Draw 11,A,Canada,Simmons,0,0,0,1,0,0,2,0,3,0,2,,8,10,W,1
+2015,Round robin,Draw 11,A,British Columbia,Cotter,1,1,0,0,2,0,0,2,0,2,0,,7,10,L,-1
+2015,Round robin,Draw 11,B,Quebec,Ménard,1,2,0,0,1,1,0,3,0,1,,,8,9,W,3
+2015,Round robin,Draw 11,B,Northwest Territories,J.Koe,0,0,1,0,0,0,2,0,2,0,,,5,9,L,-3
+2015,Round robin,Draw 11,C,Newfoundland and Labrador,Gushue,0,0,1,0,3,3,1,0,1,0,,,9,9,W,3
+2015,Round robin,Draw 11,C,Prince Edward Island,Casey,1,1,0,2,0,0,0,2,0,1,,,6,9,L,-3
+2015,Round robin,Draw 11,D,New Brunswick,Mallais,0,0,0,0,1,0,2,0,1,0,,,4,9,L,-3
+2015,Round robin,Draw 11,D,Northern Ontario,Jacobs,1,0,3,0,0,2,0,1,0,1,,,7,9,W,3
+2015,Round robin,Draw 12,A,Saskatchewan,Laycock,0,0,1,0,1,0,0,0,0,1,0,,3,10,L,-2
+2015,Round robin,Draw 12,A,Northern Ontario,Jacobs,1,1,0,1,0,1,0,0,1,0,1,,5,10,W,2
+2015,Round robin,Draw 12,B,Ontario,Kean,0,0,0,0,1,0,1,0,2,0,0,,4,10,L,-3
+2015,Round robin,Draw 12,B,Canada,Simmons,1,1,0,1,0,0,0,2,0,2,1,,7,10,W,3
+2015,Round robin,Draw 12,C,Manitoba,Carruthers,0,0,1,1,0,0,1,0,1,0,,,4,9,L,-3
+2015,Round robin,Draw 12,C,Quebec,Ménard,1,2,0,0,1,1,0,1,0,2,,,7,9,W,3
+2015,Round robin,Draw 12,D,Alberta,K.Koe,0,0,1,0,2,1,0,1,0,2,0,,7,10,L,-1
+2015,Round robin,Draw 12,D,Newfoundland and Labrador,Gushue,1,2,0,2,0,0,1,0,2,0,1,,8,10,W,1
+2015,Round robin,Draw 13,A,Alberta,K.Koe,0,0,0,2,0,2,1,0,0,2,,,7,9,W,3
+2015,Round robin,Draw 13,A,Northwest Territories,J.Koe,1,0,1,0,2,0,0,1,0,0,,,4,9,L,-3
+2015,Round robin,Draw 13,B,Saskatchewan,Laycock,0,0,0,0,2,0,2,0,1,1,0,1,7,11,W,1
+2015,Round robin,Draw 13,B,Prince Edward Island,Casey,1,0,0,1,0,3,0,1,0,0,1,0,6,11,L,-1
+2015,Round robin,Draw 13,C,Ontario,Kean,1,0,2,0,1,0,0,1,0,,,,4,8,L,-5
+2015,Round robin,Draw 13,C,New Brunswick,Mallais,0,2,0,1,0,2,3,0,1,,,,9,8,W,5
+2015,Round robin,Draw 13,D,Manitoba,Carruthers,1,0,2,0,0,2,1,0,3,,,,8,8,W,5
+2015,Round robin,Draw 13,D,British Columbia,Cotter,0,1,0,0,1,0,0,1,0,,,,3,8,L,-5
+2015,Round robin,Draw 14,A,Prince Edward Island,Casey,0,0,4,1,0,1,1,0,0,1,,,8,9,W,4
+2015,Round robin,Draw 14,A,New Brunswick,Mallais,1,2,0,0,1,0,0,0,1,0,,,4,9,L,-4
+2015,Round robin,Draw 14,B,Newfoundland and Labrador,Gushue,1,0,1,1,1,0,1,0,1,0,1,,6,10,W,1
+2015,Round robin,Draw 14,B,Northern Ontario,Jacobs,0,0,0,0,0,1,0,3,0,1,0,,5,10,L,-1
+2015,Round robin,Draw 14,C,British Columbia,Cotter,1,0,2,0,0,1,1,0,0,2,,,6,9,W,4
+2015,Round robin,Draw 14,C,Northwest Territories,J.Koe,0,0,0,0,1,0,0,0,1,0,,,2,9,L,-4
+2015,Round robin,Draw 14,D,Quebec,Ménard,0,0,0,1,0,1,0,1,0,2,,,5,9,L,-2
+2015,Round robin,Draw 14,D,Canada,Simmons,1,0,1,0,2,0,2,0,2,0,,,7,9,W,2
+2015,Round robin,Draw 15,A,Manitoba,Carruthers,1,2,0,0,2,0,0,1,0,2,0,,7,10,L,-1
+2015,Round robin,Draw 15,A,Ontario,Kean,0,0,3,1,0,0,1,0,2,0,1,,8,10,W,1
+2015,Round robin,Draw 15,B,New Brunswick,Mallais,1,0,2,0,1,0,0,1,0,0,,,4,9,L,-3
+2015,Round robin,Draw 15,B,British Columbia,Cotter,0,1,0,2,0,1,1,0,2,0,,,7,9,W,3
+2015,Round robin,Draw 15,C,Alberta,K.Koe,1,1,0,2,0,1,0,0,1,0,0,,5,10,L,-1
+2015,Round robin,Draw 15,C,Saskatchewan,Laycock,0,0,1,0,1,0,1,1,0,0,2,,6,10,W,1
+2015,Round robin,Draw 15,D,Northwest Territories,J.Koe,0,0,1,0,1,1,0,0,2,,,,5,8,L,-4
+2015,Round robin,Draw 15,D,Prince Edward Island,Casey,1,2,0,2,0,0,4,1,0,,,,9,8,W,4
+2015,Round robin,Draw 16,A,Quebec,Ménard,0,0,0,1,0,0,1,0,2,0,0,,4,10,L,-3
+2015,Round robin,Draw 16,A,Newfoundland and Labrador,Gushue,1,0,1,0,2,0,0,2,0,1,1,,7,10,W,3
+2015,Round robin,Draw 16,B,Alberta,K.Koe,0,0,0,0,2,1,0,2,0,2,1,,8,10,W,1
+2015,Round robin,Draw 16,B,Manitoba,Carruthers,1,1,0,1,0,0,3,0,2,0,0,,7,10,L,-1
+2015,Round robin,Draw 16,C,Northern Ontario,Jacobs,1,1,0,0,0,0,1,0,2,0,2,,6,10,W,3
+2015,Round robin,Draw 16,C,Canada,Simmons,0,0,1,0,0,0,0,1,0,1,0,,3,10,L,-3
+2015,Round robin,Draw 16,D,Ontario,Kean,1,1,0,0,0,0,1,0,5,0,0,1,8,11,W,1
+2015,Round robin,Draw 16,D,Saskatchewan,Laycock,0,0,1,0,0,0,0,3,0,1,2,0,7,11,L,-1
+2015,Round robin,Draw 17,A,British Columbia,Cotter,0,0,0,0,0,0,1,0,1,0,,,2,9,L,-2
+2015,Round robin,Draw 17,A,Saskatchewan,Laycock,1,0,1,0,0,1,0,1,0,1,,,4,9,W,2
+2015,Round robin,Draw 17,B,Ontario,Kean,1,0,2,2,0,2,0,2,0,,,,8,8,W,4
+2015,Round robin,Draw 17,B,Northwest Territories,J.Koe,0,1,0,0,1,0,1,0,1,,,,4,8,L,-4
+2015,Round robin,Draw 17,C,Prince Edward Island,Casey,0,0,1,1,0,0,1,0,0,1,1,,5,10,W,3
+2015,Round robin,Draw 17,C,Manitoba,Carruthers,1,0,0,0,1,0,0,0,1,0,0,,2,10,L,-3
+2015,Round robin,Draw 17,D,Alberta,K.Koe,0,1,0,3,1,1,0,0,2,,,,8,8,W,5
+2015,Round robin,Draw 17,D,New Brunswick,Mallais,1,0,1,0,0,0,1,1,0,,,,3,8,L,-5
+2015,Playoffs,1vs2,B,Northern Ontario,Jacobs,1,1,0,0,0,3,0,1,0,2,,,7,9,W,2
+2015,Playoffs,1vs2,B,Newfoundland and Labrador,Gushue,0,0,2,0,1,0,1,0,1,0,,,5,9,L,-2
+2015,Playoffs,3vs4,B,Saskatchewan,Laycock,1,1,0,1,0,0,1,0,2,0,2,0,7,11,L,-1
+2015,Playoffs,3vs4,B,Canada,Simmons,0,0,1,0,3,0,0,1,0,2,0,1,8,11,W,1
+2015,Playoffs,Semifinal,C,Newfoundland and Labrador,Gushue,1,1,0,1,0,0,2,0,0,2,0,,6,10,L,-2
+2015,Playoffs,Semifinal,C,Canada,Simmons,0,0,2,0,1,0,0,0,2,0,3,,8,10,W,2
+2015,Playoffs,Third place,NA,Newfoundland and Labrador,Gushue,1,2,0,0,2,0,0,0,1,0,0,0,5,11,L,-2
+2015,Playoffs,Third place,NA,Saskatchewan,Laycock,0,0,1,2,0,1,0,0,0,0,1,2,7,11,W,2
+2015,Playoffs,Final,C,Northern Ontario,Jacobs,1,0,0,0,0,2,0,0,1,0,2,0,5,11,L,-1
+2015,Playoffs,Final,C,Canada,Simmons,0,0,0,0,0,0,0,2,0,3,0,1,6,11,W

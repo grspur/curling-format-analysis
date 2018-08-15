@@ -1,0 +1,625 @@
+Year,Stage,Match,Team,Skip,1,2,3,4,5,6,7,8,9,10,11,Score,Ends,Outcome,Margin
+2018,Round robin,Draw 1,BC,Van Osch,0,0,1,0,0,1,0,0,0,,,2,9,L,-4
+2018,Round robin,Draw 1,CAN,Englot,1,0,0,1,0,0,0,2,2,,,6,9,W,4
+2018,Round robin,Draw 1,PEI,MacPhee,0,0,4,0,1,0,1,0,0,,,6,9,L,-5
+2018,Round robin,Draw 1,NL,Curtis,1,0,0,2,0,3,0,3,2,,,11,9,W,5
+2018,Round robin,Draw 1,ONT,Duncan,1,0,0,1,0,0,1,0,2,0,,5,10,L,-1
+2018,Round robin,Draw 1,ALTA,Scheidegger,0,1,1,0,0,1,0,2,0,1,,6,10,W,1
+2018,Round robin,Draw 1,QUE,Gagne,1,1,3,0,0,2,0,2,,,,9,8,W,7
+2018,Round robin,Draw 1,NUN,Shackelton,0,0,0,1,0,0,1,0,,,,2,8,L,-7
+2018,Round robin,Draw 2,WC,Einarson,3,0,1,0,0,2,1,0,0,1,,8,10,W,2
+2018,Round robin,Draw 2,NB,Robichaud,0,1,0,1,1,0,0,2,1,0,,6,10,L,-2
+2018,Round robin,Draw 2,SSK,Anderson,0,0,1,0,0,2,0,2,,,,5,8,L,-7
+2018,Round robin,Draw 2,MAN,Jones,2,3,0,0,5,0,2,0,,,,12,8,W,7
+2018,Round robin,Draw 2,YUK,Duncan,0,1,0,0,0,3,0,0,2,,,6,9,L,-3
+2018,Round robin,Draw 2,NWT,Galusha,0,0,2,1,3,0,2,1,0,,,9,9,W,3
+2018,Round robin,Draw 2,NON,Fleury,1,0,0,0,0,2,0,1,0,,,4,9,L,-6
+2018,Round robin,Draw 2,NS,Arsenault,0,0,2,1,2,0,1,0,4,,,10,9,W,6
+2018,Round robin,Draw 3,PEI,MacPhee,0,2,0,1,0,0,1,0,2,,,6,9,L,-2
+2018,Round robin,Draw 3,ALTA,Scheidegger,2,0,1,0,0,2,0,3,0,,,8,9,W,2
+2018,Round robin,Draw 3,BC,Van Osch,0,2,0,0,2,1,0,1,1,,,7,9,W,3
+2018,Round robin,Draw 3,NUN,Shackelton,1,0,1,1,0,0,1,0,0,,,4,9,L,-3
+2018,Round robin,Draw 3,QUE,Gagne,0,2,0,0,1,0,0,1,0,1,0,5,11,L,-1
+2018,Round robin,Draw 3,CAN,Englot,2,0,1,1,0,0,0,0,1,0,1,6,11,W,1
+2018,Round robin,Draw 3,ONT,Duncan,0,0,2,0,0,2,0,1,0,,,5,9,L,-3
+2018,Round robin,Draw 3,NL,Curtis,0,3,0,1,1,0,1,0,2,,,8,9,W,3
+2018,Round robin,Draw 4,SSK,Anderson,0,2,1,0,0,1,0,0,4,,,8,9,W,4
+2018,Round robin,Draw 4,NWT,Galusha,0,0,0,0,2,0,0,2,0,,,4,9,L,-4
+2018,Round robin,Draw 4,WC,Einarson,0,2,0,1,0,0,0,3,0,1,,7,10,W,2
+2018,Round robin,Draw 4,NS,Arsenault,1,0,1,0,0,0,1,0,2,0,,5,10,L,-2
+2018,Round robin,Draw 4,NON,Fleury,0,2,0,0,3,0,0,0,0,0,,5,10,L,-3
+2018,Round robin,Draw 4,NB,Robichaud,1,0,1,0,0,2,2,0,0,2,,8,10,W,3
+2018,Round robin,Draw 4,YUK,Duncan,0,0,0,0,1,0,,,,,,1,6,L,-13
+2018,Round robin,Draw 4,MAN,Jones,3,3,1,1,0,6,,,,,,14,6,W,13
+2018,Round robin,Draw 5,QUE,Gagne,0,3,0,1,0,0,0,1,0,0,,5,10,L,-2
+2018,Round robin,Draw 5,ONT,Duncan,1,0,2,0,2,0,1,0,0,1,,7,10,W,2
+2018,Round robin,Draw 5,CAN,Englot,0,2,0,0,1,0,3,0,0,,,6,9,L,-4
+2018,Round robin,Draw 5,ALTA,Scheidegger,2,0,0,3,0,2,0,1,2,,,10,9,W,4
+2018,Round robin,Draw 5,NUN,Shackelton,0,1,0,0,1,0,1,0,,,,3,8,L,-7
+2018,Round robin,Draw 5,NL,Curtis,0,0,3,4,0,3,0,0,,,,10,8,W,7
+2018,Round robin,Draw 5,BC,Van Osch,0,2,0,2,0,0,0,1,0,,,5,9,L,-4
+2018,Round robin,Draw 5,PEI,MacPhee,2,0,2,0,0,3,1,0,1,,,9,9,W,4
+2018,Round robin,Draw 6,NON,Fleury,0,1,1,0,3,0,2,1,0,,,8,9,W,3
+2018,Round robin,Draw 6,YUK,Duncan,2,0,0,1,0,1,0,0,1,,,5,9,L,-3
+2018,Round robin,Draw 6,NB,Robichaud,1,0,2,0,1,0,1,1,0,1,1,8,11,W,1
+2018,Round robin,Draw 6,NWT,Galusha,0,2,0,2,0,3,0,0,0,0,0,7,11,L,-1
+2018,Round robin,Draw 6,NS,Arsenault,0,0,1,0,1,0,2,1,0,,,5,9,L,-6
+2018,Round robin,Draw 6,MAN,Jones,2,2,0,2,0,2,0,0,3,,,11,9,W,6
+2018,Round robin,Draw 6,WC,Einarson,0,1,0,2,0,1,0,1,3,,,8,9,W,4
+2018,Round robin,Draw 6,SSK,Anderson,0,0,1,0,1,0,2,0,0,,,4,9,L,-4
+2018,Round robin,Draw 7,ALTA,Scheidegger,0,0,1,0,0,1,0,2,1,0,,5,10,L,-4
+2018,Round robin,Draw 7,NL,Curtis,0,1,0,2,1,0,3,0,0,2,,9,10,W,4
+2018,Round robin,Draw 7,QUE,Gagne,0,1,0,2,0,0,1,0,,,,4,8,L,-6
+2018,Round robin,Draw 7,BC,Van Osch,2,0,1,0,3,2,0,2,,,,10,8,W,6
+2018,Round robin,Draw 7,PEI,MacPhee,0,0,1,1,0,0,2,0,2,0,0,6,11,L,-2
+2018,Round robin,Draw 7,ONT,Duncan,0,1,0,0,0,1,0,3,0,1,2,8,11,W,2
+2018,Round robin,Draw 7,NUN,Shackelton,0,2,0,1,0,1,0,0,,,,4,8,L,-9
+2018,Round robin,Draw 7,CAN,Englot,3,0,3,0,2,0,2,3,,,,13,8,W,9
+2018,Round robin,Draw 8,NWT,Galusha,0,0,0,1,0,0,3,0,,,,4,8,L,-10
+2018,Round robin,Draw 8,MAN,Jones,0,0,2,0,5,3,0,2,,,,14,8,W,10
+2018,Round robin,Draw 8,NON,Fleury,3,0,0,0,0,2,0,2,0,,,7,9,W,2
+2018,Round robin,Draw 8,WC,Einarson,0,2,0,0,1,0,2,0,0,,,5,9,L,-2
+2018,Round robin,Draw 8,SSK,Anderson,3,0,1,0,1,0,1,0,2,2,,10,10,W,3
+2018,Round robin,Draw 8,YUK,Duncan,0,1,0,1,0,3,0,2,0,0,,7,10,L,-3
+2018,Round robin,Draw 8,NS,Arsenault,1,0,1,0,3,0,0,0,0,1,1,7,11,W,1
+2018,Round robin,Draw 8,NB,Robichaud,0,1,0,2,0,3,0,0,0,0,0,6,11,L,-1
+2018,Round robin,Draw 9,ONT,Duncan,2,0,0,1,0,1,0,1,0,0,,5,10,L,-1
+2018,Round robin,Draw 9,BC,Van Osch,0,1,0,0,0,0,2,0,0,3,,6,10,W,1
+2018,Round robin,Draw 9,NL,Curtis,0,0,2,0,0,0,1,0,2,,,5,9,L,-3
+2018,Round robin,Draw 9,CAN,Englot,2,2,0,1,1,1,0,1,0,,,8,9,W,3
+2018,Round robin,Draw 9,ALTA,Scheidegger,2,3,0,0,4,0,1,1,,,,10,8,W,6
+2018,Round robin,Draw 9,NUN,Shackelton,0,0,2,1,0,1,0,0,,,,4,8,L,-6
+2018,Round robin,Draw 9,PEI,MacPhee,0,2,0,1,0,0,2,0,1,0,,6,10,L,-2
+2018,Round robin,Draw 9,QUE,Gagne,1,0,1,0,2,1,0,1,0,2,,8,10,W,2
+2018,Round robin,Draw 10,YUK,Duncan,0,0,1,0,0,1,0,1,,,,3,8,L,-7
+2018,Round robin,Draw 10,WC,Einarson,3,2,0,2,1,0,2,0,,,,10,8,W,7
+2018,Round robin,Draw 10,MAN,Jones,0,2,0,2,0,2,0,1,0,,,7,9,W,3
+2018,Round robin,Draw 10,NB,Robichaud,0,0,0,0,2,0,1,0,1,,,4,9,L,-3
+2018,Round robin,Draw 10,NWT,Galusha,0,4,0,0,2,0,0,2,0,0,,8,10,L,-1
+2018,Round robin,Draw 10,NS,Arsenault,1,0,2,0,0,3,1,0,0,2,,9,10,W,1
+2018,Round robin,Draw 10,SSK,Anderson,0,1,0,1,0,0,1,1,0,,,4,9,L,-3
+2018,Round robin,Draw 10,NON,Fleury,1,0,2,0,2,1,0,0,1,,,7,9,W,3
+2018,Round robin,Draw 11,NL,Curtis,0,0,0,3,0,2,0,0,2,0,,7,10,L,-2
+2018,Round robin,Draw 11,QUE,Gagne,0,2,1,0,1,0,1,2,0,2,,9,10,W,2
+2018,Round robin,Draw 11,NUN,Shackelton,0,1,0,1,0,0,0,0,,,,2,8,L,-10
+2018,Round robin,Draw 11,ONT,Duncan,0,0,1,0,4,4,2,1,,,,12,8,W,10
+2018,Round robin,Draw 11,CAN,Englot,2,0,0,0,2,2,0,1,0,,,7,9,W,2
+2018,Round robin,Draw 11,PEI,MacPhee,0,0,0,2,0,0,1,0,2,,,5,9,L,-2
+2018,Round robin,Draw 11,ALTA,Scheidegger,0,2,3,0,1,3,0,2,,,,11,8,W,10
+2018,Round robin,Draw 11,BC,Van Osch,0,0,0,1,0,0,0,0,,,,1,8,L,-10
+2018,Round robin,Draw 12,MAN,Jones,2,0,2,0,0,1,0,0,0,0,,5,10,L,-4
+2018,Round robin,Draw 12,NON,Fleury,0,1,0,2,1,0,0,2,0,3,,9,10,W,4
+2018,Round robin,Draw 12,NS,Arsenault,0,0,0,1,0,0,2,2,3,,,8,9,W,6
+2018,Round robin,Draw 12,YUK,Duncan,0,0,1,0,0,1,0,0,0,,,2,9,L,-6
+2018,Round robin,Draw 12,NB,Robichaud,2,0,0,1,0,0,2,1,0,0,1,7,11,W,1
+2018,Round robin,Draw 12,SSK,Anderson,0,2,0,0,1,0,0,0,2,1,0,6,11,L,-1
+2018,Round robin,Draw 12,NWT,Galusha,1,0,0,0,0,1,1,0,,,,3,8,L,-6
+2018,Round robin,Draw 12,WC,Einarson,0,2,1,2,2,0,0,2,,,,9,8,W,6
+2018,Round robin,Draw 13,NUN,Shackelton,0,0,0,1,0,1,0,2,,,,4,8,L,-8
+2018,Round robin,Draw 13,PEI,MacPhee,3,2,1,0,2,0,4,0,,,,12,8,W,8
+2018,Round robin,Draw 13,ALTA,Scheidegger,0,2,3,0,0,2,0,2,,,,9,8,W,7
+2018,Round robin,Draw 13,QUE,Gagne,0,0,0,0,1,0,1,0,,,,2,8,L,-7
+2018,Round robin,Draw 13,NL,Curtis,0,0,1,0,1,0,2,0,3,0,,7,10,L,-3
+2018,Round robin,Draw 13,BC,Van Osch,0,2,0,2,0,2,0,3,0,1,,10,10,W,3
+2018,Round robin,Draw 13,CAN,Englot,1,0,0,0,1,1,0,2,0,0,,5,10,L,-2
+2018,Round robin,Draw 13,ONT,Duncan,0,2,0,1,0,0,3,0,0,1,,7,10,W,2
+2018,Round robin,Draw 14,NS,Arsenault,2,1,0,1,0,1,0,3,,,,8,8,W,5
+2018,Round robin,Draw 14,SSK,Anderson,0,0,1,0,1,0,1,0,,,,3,8,L,-5
+2018,Round robin,Draw 14,NWT,Galusha,0,1,1,0,0,3,0,0,1,0,,6,10,L,-1
+2018,Round robin,Draw 14,NON,Fleury,0,0,0,2,1,0,2,1,0,1,,7,10,W,1
+2018,Round robin,Draw 14,MAN,Jones,0,1,0,0,0,1,0,2,,,,4,8,L,-5
+2018,Round robin,Draw 14,WC,Einarson,1,0,0,4,2,0,2,0,,,,9,8,W,5
+2018,Round robin,Draw 14,NB,Robichaud,1,0,0,1,0,2,0,2,0,,,6,9,W,3
+2018,Round robin,Draw 14,YUK,Duncan,0,1,0,0,0,0,1,0,1,,,3,9,L,-3
+2018,Tiebreaker,,NL,Curtis,1,0,3,0,1,0,1,2,0,0,,8,10,L,-3
+2018,Tiebreaker,,ONT,Duncan,0,2,0,3,0,1,0,0,3,2,,11,10,W,3
+2018,Seeding,5 vs. 5,NB,Robichaud,0,1,2,2,0,1,0,1,0,1,,8,10,W,4
+2018,Seeding,5 vs. 5,NL,Curtis,1,0,0,0,1,0,1,0,1,0,,4,10,L,-4
+2018,Seeding,6 vs. 6,SSK,Anderson,2,0,2,3,0,0,1,0,1,,,9,9,W,2
+2018,Seeding,6 vs. 6,QUE,Gagne,0,5,0,0,0,1,0,1,0,,,7,9,L,-2
+2018,Seeding,7 vs. 7,NWT,Galusha,0,2,0,1,0,2,0,0,2,0,2,9,11,W,2
+2018,Seeding,7 vs. 7,PEI,MacPhee,1,0,1,0,2,0,0,1,0,2,0,7,11,L,-2
+2018,Seeding,8 vs. 8,YUK,Duncan,3,0,1,1,0,1,1,0,2,,,9,9,W,5
+2018,Seeding,8 vs. 8,NUN,Shackelton,0,1,0,0,2,0,0,1,0,,,4,9,L,-5
+2018,Champ pool,Draw 15,ONT,Duncan,1,1,0,1,0,1,0,0,1,0,,5,10,L,-2
+2018,Champ pool,Draw 15,WC,Einarson,0,0,1,0,2,0,0,3,0,1,,7,10,W,2
+2018,Champ pool,Draw 15,BC,Van Osch,0,1,0,1,0,0,1,0,,,,3,8,L,-7
+2018,Champ pool,Draw 15,MAN,Jones,2,0,3,0,0,3,0,2,,,,10,8,W,7
+2018,Champ pool,Draw 15,CAN,Englot,0,0,0,0,0,1,0,0,,,,1,8,L,-6
+2018,Champ pool,Draw 15,NS,Arsenault,0,1,1,1,0,0,2,2,,,,7,8,W,6
+2018,Champ pool,Draw 15,ALTA,Scheidegger,1,0,1,0,3,0,2,0,1,,,7,9,W,3
+2018,Champ pool,Draw 15,NON,Fleury,0,0,0,1,0,2,0,1,0,,,4,9,L,-3
+2018,Champ pool,Draw 16,CAN,Englot,0,0,1,0,1,0,1,0,,,,3,8,L,-5
+2018,Champ pool,Draw 16,NON,Fleury,0,2,0,2,0,2,0,2,,,,8,8,W,5
+2018,Champ pool,Draw 16,ALTA,Scheidegger,0,1,0,1,0,0,1,0,,,,3,8,L,-5
+2018,Champ pool,Draw 16,NS,Arsenault,3,0,1,0,0,1,0,3,,,,8,8,W,5
+2018,Champ pool,Draw 16,BC,Van Osch,0,0,2,0,1,0,0,0,2,0,,5,10,L,-1
+2018,Champ pool,Draw 16,WC,Einarson,2,1,0,1,0,0,0,2,0,0,,6,10,W,1
+2018,Champ pool,Draw 16,ONT,Duncan,0,0,1,0,1,0,1,0,,,,3,8,L,-8
+2018,Champ pool,Draw 16,MAN,Jones,4,1,0,1,0,3,0,2,,,,11,8,W,8
+2018,Champ pool,Draw 17,MAN,Jones,1,0,0,2,0,1,1,1,,,,6,8,W,4
+2018,Champ pool,Draw 17,ALTA,Scheidegger,0,1,0,0,1,0,0,0,,,,2,8,L,-4
+2018,Champ pool,Draw 17,WC,Einarson,0,1,0,0,2,0,1,1,0,0,,5,10,L,-3
+2018,Champ pool,Draw 17,CAN,Englot,1,0,1,2,0,1,0,0,1,2,,8,10,W,3
+2018,Champ pool,Draw 17,NON,Fleury,2,0,2,0,2,0,1,0,0,1,,8,10,W,2
+2018,Champ pool,Draw 17,ONT,Duncan,0,1,0,2,0,1,0,2,0,0,,6,10,L,-2
+2018,Champ pool,Draw 17,NS,Arsenault,2,0,3,0,1,0,1,3,,,,10,8,W,6
+2018,Champ pool,Draw 17,BC,Van Osch,0,1,0,2,0,1,0,0,,,,4,8,L,-6
+2018,Champ pool,Draw 18,NON,Fleury,0,2,0,0,2,0,2,0,0,1,,7,10,W,2
+2018,Champ pool,Draw 18,BC,Van Osch,0,0,2,0,0,1,0,0,2,0,,5,10,L,-2
+2018,Champ pool,Draw 18,NS,Arsenault,0,0,1,3,0,2,0,0,2,0,2,10,11,W,2
+2018,Champ pool,Draw 18,ONT,Duncan,1,2,0,0,1,0,1,2,0,1,0,8,11,L,-2
+2018,Champ pool,Draw 18,MAN,Jones,1,3,0,2,1,0,3,0,,,,10,8,W,6
+2018,Champ pool,Draw 18,CAN,Englot,0,0,1,0,0,2,0,1,,,,4,8,L,-6
+2018,Champ pool,Draw 18,WC,Einarson,1,1,0,1,1,0,0,1,0,1,,6,10,W,2
+2018,Champ pool,Draw 18,ALTA,Scheidegger,0,0,2,0,0,0,2,0,0,0,,4,10,L,-2
+2018,Playoffs,1 vs. 2,WC,Einarson,0,2,0,1,0,2,1,0,1,0,,7,10,L,-2
+2018,Playoffs,1 vs. 2,MAN,Jones,0,0,2,0,3,0,0,2,0,2,,9,10,W,2
+2018,Playoffs,3 vs. 4,NS,Arsenault,0,0,0,2,0,3,0,0,1,,,6,9,W,4
+2018,Playoffs,3 vs. 4,NON,Fleury,0,0,0,0,1,0,0,1,0,,,2,9,L,-4
+2018,Playoffs,Semifinal,WC,Einarson,2,0,3,0,4,1,0,1,0,1,,12,10,W,3
+2018,Playoffs,Semifinal,NS,Arsenault,0,3,0,3,0,0,2,0,1,0,,9,10,L,-3
+2018,Playoffs,Final,MAN,Jones,1,0,1,0,0,2,0,2,0,2,,8,10,W,2
+2018,Playoffs,Final,WC,Einarson,0,2,0,1,1,0,1,0,1,0,,6,10,L,-2
+2017,Pre-qualifying,Draw 1,NUN,Chislett,0,1,0,1,0,1,0,3,0,,,6,9,L,-5
+2017,Pre-qualifying,Draw 1,NB,Adams,2,0,4,0,2,0,1,0,2,,,11,9,W,5
+2017,Pre-qualifying,Draw 1,NWT,Galusha,0,0,2,0,4,0,2,1,0,,,9,9,W,3
+2017,Pre-qualifying,Draw 1,YUK,Koltun,1,1,0,1,0,2,0,0,1,,,6,9,L,-3
+2017,Pre-qualifying,Draw 2,NB,Adams,0,1,0,1,2,1,0,1,0,3,,9,10,W,2
+2017,Pre-qualifying,Draw 2,YUK,Koltun,2,0,2,0,0,0,2,0,1,0,,7,10,L,-2
+2017,Pre-qualifying,Draw 2,NUN,Chislett,1,0,0,0,0,0,0,1,,,,2,8,L,-8
+2017,Pre-qualifying,Draw 2,NWT,Galusha,0,3,1,0,4,1,1,0,,,,10,8,W,8
+2017,Pre-qualifying,Draw 3,YUK,Koltun,3,0,3,1,3,1,1,,,,,12,7,W,11
+2017,Pre-qualifying,Draw 3,NUN,Chislett,0,1,0,0,0,0,0,,,,,1,7,L,-11
+2017,Pre-qualifying,Draw 3,NB,Adams,1,0,1,0,0,3,2,0,2,,,9,9,W,5
+2017,Pre-qualifying,Draw 3,NWT,Galusha,0,1,0,0,1,0,0,2,0,,,4,9,L,-5
+2017,Pre-qualifying,Final,NB,Adams,0,0,1,0,0,1,0,0,1,0,,3,10,L,-2
+2017,Pre-qualifying,Final,NWT,Galusha,0,1,0,1,1,0,0,1,0,1,,5,10,W,2
+2017,Round robin,Draw 1,MAN,Englot,0,0,1,0,0,3,0,1,0,2,,7,10,W,1
+2017,Round robin,Draw 1,QUE,Belisle,0,1,0,1,1,0,2,0,1,0,,6,10,L,-1
+2017,Round robin,Draw 1,ONT,Homan,1,1,0,2,0,0,0,1,0,0,2,7,11,W,2
+2017,Round robin,Draw 1,CAN,Carey,0,0,1,0,0,1,2,0,0,1,0,5,11,L,-2
+2017,Round robin,Draw 1,NS,Mattattall,0,2,0,0,1,0,0,1,0,1,,5,10,W,1
+2017,Round robin,Draw 1,BC,Mallett,0,0,1,0,0,1,0,0,2,0,,4,10,L,-1
+2017,Round robin,Draw 2,NWT,Galusha,2,0,0,2,0,2,2,0,1,,,9,9,W,5
+2017,Round robin,Draw 2,PEI,MacPhee,0,0,1,0,2,0,0,1,0,,,4,9,L,-5
+2017,Round robin,Draw 2,NON,McCarville,0,3,0,1,0,0,2,0,0,,,6,9,L,-5
+2017,Round robin,Draw 2,ALTA,Kleibrink,0,0,2,0,2,3,0,3,1,,,11,9,W,5
+2017,Round robin,Draw 2,SSK,Barker,1,0,0,1,0,0,1,0,1,0,,4,10,L,-3
+2017,Round robin,Draw 2,NL,Curtis,0,2,0,0,1,0,0,3,0,1,,7,10,W,3
+2017,Round robin,Draw 3,CAN,Carey,0,2,0,0,0,1,0,2,1,,,6,9,W,2
+2017,Round robin,Draw 3,NS,Mattattall,0,0,0,2,1,0,1,0,0,,,4,9,L,-2
+2017,Round robin,Draw 3,MAN,Englot,0,0,0,3,0,1,0,3,0,1,,8,10,W,3
+2017,Round robin,Draw 3,SSK,Barker,0,0,2,0,1,0,1,0,1,0,,5,10,L,-3
+2017,Round robin,Draw 3,NON,McCarville,1,0,0,2,1,1,0,3,1,,,9,9,W,5
+2017,Round robin,Draw 3,QUE,Belisle,0,2,1,0,0,0,1,0,0,,,4,9,L,-5
+2017,Round robin,Draw 3,BC,Mallett,0,0,3,0,0,0,0,0,,,,3,8,L,-6
+2017,Round robin,Draw 3,ONT,Homan,0,2,0,2,2,0,2,1,,,,9,8,W,6
+2017,Round robin,Draw 4,PEI,MacPhee,1,0,0,1,0,0,1,0,0,,,3,9,L,-5
+2017,Round robin,Draw 4,ONT,Homan,0,1,2,0,1,1,0,2,1,,,8,9,W,5
+2017,Round robin,Draw 4,BC,Mallett,1,0,1,0,0,2,1,0,,,,5,8,L,-5
+2017,Round robin,Draw 4,NL,Curtis,0,2,0,5,1,0,0,2,,,,10,8,W,5
+2017,Round robin,Draw 4,MAN,Englot,0,1,0,1,1,0,2,0,0,4,,9,10,W,5
+2017,Round robin,Draw 4,NWT,Galusha,0,0,1,0,0,1,0,1,1,0,,4,10,L,-5
+2017,Round robin,Draw 4,ALTA,Kleibrink,0,1,0,2,1,0,0,1,,,,5,8,L,-4
+2017,Round robin,Draw 4,QUE,Belisle,2,0,2,0,0,0,5,0,,,,9,8,W,4
+2017,Round robin,Draw 5,ALTA,Kleibrink,0,1,0,0,2,0,1,1,0,,,5,9,W,2
+2017,Round robin,Draw 5,NL,Curtis,0,0,1,0,0,1,0,0,1,,,3,9,L,-2
+2017,Round robin,Draw 5,NS,Mattattall,0,1,0,1,0,1,0,2,1,0,,6,10,L,-2
+2017,Round robin,Draw 5,NWT,Galusha,2,0,1,0,2,0,1,0,0,2,,8,10,W,2
+2017,Round robin,Draw 5,CAN,Carey,0,0,2,0,1,0,1,0,3,0,1,8,11,W,1
+2017,Round robin,Draw 5,PEI,MacPhee,1,1,0,0,0,1,0,1,0,3,0,7,11,L,-1
+2017,Round robin,Draw 5,NON,McCarville,0,2,0,1,1,2,1,0,1,,,8,9,W,5
+2017,Round robin,Draw 5,SSK,Barker,0,0,1,0,0,0,0,2,0,,,3,9,L,-5
+2017,Round robin,Draw 6,BC,Mallett,0,0,2,4,0,0,1,0,2,0,,9,10,L,-3
+2017,Round robin,Draw 6,NWT,Galusha,1,1,0,0,3,3,0,1,0,3,,12,10,W,3
+2017,Round robin,Draw 6,QUE,Belisle,0,2,3,0,0,0,2,0,0,1,,8,10,W,1
+2017,Round robin,Draw 6,PEI,MacPhee,1,0,0,2,1,0,0,3,0,0,,7,10,L,-1
+2017,Round robin,Draw 6,ONT,Homan,0,0,2,0,1,1,1,1,0,,,6,9,W,2
+2017,Round robin,Draw 6,ALTA,Kleibrink,0,1,0,2,0,0,0,0,1,,,4,9,L,-2
+2017,Round robin,Draw 6,NL,Curtis,0,0,1,1,3,0,0,0,0,0,,5,10,L,-5
+2017,Round robin,Draw 6,MAN,Englot,1,2,0,0,0,2,1,1,1,2,,10,10,W,5
+2017,Round robin,Draw 7,NON,McCarville,1,0,2,0,3,0,0,0,1,0,,7,10,L,-1
+2017,Round robin,Draw 7,MAN,Englot,0,1,0,1,0,2,1,1,0,2,,8,10,W,1
+2017,Round robin,Draw 7,CAN,Carey,1,0,0,2,0,0,1,1,1,,,6,9,W,4
+2017,Round robin,Draw 7,BC,Mallett,0,0,2,0,0,0,0,0,0,,,2,9,L,-4
+2017,Round robin,Draw 7,QUE,Belisle,3,0,1,0,0,1,1,0,0,1,,7,10,W,2
+2017,Round robin,Draw 7,SSK,Barker,0,1,0,1,1,0,0,1,1,0,,5,10,L,-2
+2017,Round robin,Draw 7,ONT,Homan,2,0,0,0,2,1,0,4,,,,9,8,W,6
+2017,Round robin,Draw 7,NS,Mattattall,0,1,0,1,0,0,1,0,,,,3,8,L,-6
+2017,Round robin,Draw 8,NS,Mattattall,0,0,0,0,3,0,0,0,1,,,4,9,L,-5
+2017,Round robin,Draw 8,PEI,MacPhee,0,0,1,3,0,2,1,2,0,,,9,9,W,5
+2017,Round robin,Draw 8,NL,Curtis,0,0,0,0,0,0,2,0,1,,,3,9,L,-3
+2017,Round robin,Draw 8,NON,McCarville,0,0,1,1,1,1,0,2,0,,,6,9,W,3
+2017,Round robin,Draw 8,NWT,Galusha,0,0,1,0,1,0,2,0,0,,,4,9,L,-3
+2017,Round robin,Draw 8,CAN,Carey,1,0,0,2,0,1,0,2,1,,,7,9,W,3
+2017,Round robin,Draw 8,SSK,Barker,0,0,2,1,0,3,0,1,0,0,0,7,11,L,-3
+2017,Round robin,Draw 8,ALTA,Kleibrink,0,1,0,0,2,0,2,0,1,1,3,10,11,W,3
+2017,Round robin,Draw 9,NL,Curtis,2,0,0,0,1,0,1,0,0,,,4,9,L,-3
+2017,Round robin,Draw 9,QUE,Belisle,0,1,1,0,0,2,0,2,1,,,7,9,W,3
+2017,Round robin,Draw 9,NWT,Galusha,0,0,2,1,0,0,1,0,0,,,4,9,L,-3
+2017,Round robin,Draw 9,ONT,Homan,1,0,0,0,2,2,0,1,1,,,7,9,W,3
+2017,Round robin,Draw 9,ALTA,Kleibrink,0,0,2,1,0,1,0,1,0,0,,5,10,L,-4
+2017,Round robin,Draw 9,MAN,Englot,0,1,0,0,3,0,1,0,2,2,,9,10,W,4
+2017,Round robin,Draw 9,PEI,MacPhee,3,0,0,1,0,0,2,1,0,1,,8,10,W,1
+2017,Round robin,Draw 9,BC,Mallett,0,2,2,0,1,1,0,0,1,0,,7,10,L,-1
+2017,Round robin,Draw 10,ONT,Homan,1,0,2,0,2,0,0,2,0,,,7,9,W,3
+2017,Round robin,Draw 10,SSK,Barker,0,1,0,0,0,2,0,0,1,,,4,9,L,-3
+2017,Round robin,Draw 10,QUE,Belisle,0,0,2,0,2,0,4,4,,,,12,8,W,6
+2017,Round robin,Draw 10,NS,Mattattall,1,1,0,2,0,2,0,0,,,,6,8,L,-6
+2017,Round robin,Draw 10,NON,McCarville,1,0,4,1,1,0,0,1,,,,8,8,W,5
+2017,Round robin,Draw 10,BC,Mallett,0,1,0,0,0,1,1,0,,,,3,8,L,-5
+2017,Round robin,Draw 10,MAN,Englot,1,0,1,0,0,0,1,2,2,0,,7,10,L,-1
+2017,Round robin,Draw 10,CAN,Carey,0,2,0,1,1,2,0,0,0,2,,8,10,W,1
+2017,Round robin,Draw 11,ALTA,Kleibrink,1,0,0,3,3,0,4,0,,,,11,8,W,6
+2017,Round robin,Draw 11,BC,Mallett,0,1,0,0,0,2,0,2,,,,5,8,L,-6
+2017,Round robin,Draw 11,PEI,MacPhee,0,0,2,0,0,0,0,0,,,,2,8,L,-8
+2017,Round robin,Draw 11,MAN,Englot,0,1,0,1,4,1,1,2,,,,10,8,W,8
+2017,Round robin,Draw 11,NL,Curtis,1,0,0,0,0,1,0,0,1,,,3,9,L,-3
+2017,Round robin,Draw 11,ONT,Homan,0,2,0,0,1,0,1,2,0,,,6,9,W,3
+2017,Round robin,Draw 11,QUE,Belisle,1,0,0,0,2,2,0,2,,,,7,8,W,5
+2017,Round robin,Draw 11,NWT,Galusha,0,0,1,0,0,0,1,0,,,,2,8,L,-5
+2017,Round robin,Draw 12,QUE,Belisle,0,0,1,0,1,0,1,0,2,0,,5,10,L,-1
+2017,Round robin,Draw 12,CAN,Carey,0,2,0,1,0,1,0,2,0,0,,6,10,W,1
+2017,Round robin,Draw 12,BC,Mallett,0,1,0,0,1,0,3,1,0,0,1,7,11,W,1
+2017,Round robin,Draw 12,SSK,Barker,2,0,0,1,0,1,0,0,1,1,0,6,11,L,-1
+2017,Round robin,Draw 12,MAN,Englot,0,1,0,3,0,3,1,0,,,,8,8,W,5
+2017,Round robin,Draw 12,NS,Mattattall,0,0,1,0,1,0,0,1,,,,3,8,L,-5
+2017,Round robin,Draw 12,NON,McCarville,0,0,1,0,1,2,0,1,0,1,0,6,11,L,-1
+2017,Round robin,Draw 12,ONT,Homan,0,1,0,3,0,0,2,0,0,0,1,7,11,W,1
+2017,Round robin,Draw 13,PEI,MacPhee,1,0,2,0,0,0,1,0,2,0,0,6,11,L,-1
+2017,Round robin,Draw 13,NON,McCarville,0,1,0,1,0,1,0,1,0,2,1,7,11,W,1
+2017,Round robin,Draw 13,NL,Curtis,0,1,0,2,0,0,2,0,0,,,5,9,L,-6
+2017,Round robin,Draw 13,CAN,Carey,1,0,3,0,3,2,0,1,1,,,11,9,W,6
+2017,Round robin,Draw 13,SSK,Barker,2,0,2,0,1,0,1,0,0,1,0,7,11,L,-1
+2017,Round robin,Draw 13,NWT,Galusha,0,0,0,3,0,3,0,1,0,0,1,8,11,W,1
+2017,Round robin,Draw 13,NS,Mattattall,1,0,0,3,0,2,2,1,0,2,,11,10,W,1
+2017,Round robin,Draw 13,ALTA,Kleibrink,0,2,3,0,4,0,0,0,1,0,,10,10,L,-1
+2017,Round robin,Draw 14,NWT,Galusha,0,0,0,0,1,0,2,1,0,,,4,9,L,-3
+2017,Round robin,Draw 14,NL,Curtis,2,0,0,2,0,3,0,0,0,,,7,9,W,3
+2017,Round robin,Draw 14,ONT,Homan,0,1,0,2,1,0,0,0,1,,,5,9,W,4
+2017,Round robin,Draw 14,QUE,Belisle,0,0,0,0,0,1,0,0,0,,,1,9,L,-4
+2017,Round robin,Draw 14,PEI,MacPhee,0,1,0,0,1,0,1,0,1,0,,4,10,L,-2
+2017,Round robin,Draw 14,ALTA,Kleibrink,1,0,1,0,0,2,0,1,0,1,,6,10,W,2
+2017,Round robin,Draw 14,BC,Mallett,0,0,1,0,0,1,0,0,,,,2,8,L,-5
+2017,Round robin,Draw 14,MAN,Englot,0,2,0,1,0,0,2,2,,,,7,8,W,5
+2017,Round robin,Draw 15,SSK,Barker,0,1,0,0,4,1,3,0,1,,,10,9,W,6
+2017,Round robin,Draw 15,NS,Mattattall,1,0,2,0,0,0,0,1,0,,,4,9,L,-6
+2017,Round robin,Draw 15,ALTA,Kleibrink,0,0,1,0,1,1,0,0,0,0,,3,10,L,-1
+2017,Round robin,Draw 15,NWT,Galusha,1,0,0,1,0,0,0,1,0,1,,4,10,W,1
+2017,Round robin,Draw 15,CAN,Carey,0,0,1,0,1,0,1,0,1,,,4,9,L,-4
+2017,Round robin,Draw 15,NON,McCarville,3,0,0,1,0,3,0,1,0,,,8,9,W,4
+2017,Round robin,Draw 15,PEI,MacPhee,0,0,3,0,1,0,0,0,,,,4,8,L,-6
+2017,Round robin,Draw 15,NL,Curtis,2,1,0,2,0,0,3,2,,,,10,8,W,6
+2017,Round robin,Draw 16,MAN,Englot,4,0,1,1,1,0,2,0,,,,9,8,W,4
+2017,Round robin,Draw 16,ONT,Homan,0,2,0,0,0,2,0,1,,,,5,8,L,-4
+2017,Round robin,Draw 16,NS,Mattattall,0,0,1,0,0,0,1,0,2,0,,4,10,L,-2
+2017,Round robin,Draw 16,NON,McCarville,2,0,0,0,1,0,0,1,0,2,,6,10,W,2
+2017,Round robin,Draw 16,BC,Mallett,0,2,0,2,0,0,0,1,0,0,,5,10,L,-3
+2017,Round robin,Draw 16,QUE,Belisle,1,0,2,0,0,1,2,0,1,1,,8,10,W,3
+2017,Round robin,Draw 16,CAN,Carey,2,0,3,0,3,0,1,0,2,,,11,9,W,6
+2017,Round robin,Draw 16,SSK,Barker,0,1,0,1,0,1,0,2,0,,,5,9,L,-6
+2017,Round robin,Draw 17,CAN,Carey,1,0,0,1,0,2,0,2,0,1,,7,10,W,3
+2017,Round robin,Draw 17,ALTA,Kleibrink,0,1,0,0,1,0,1,0,1,0,,4,10,L,-3
+2017,Round robin,Draw 17,SSK,Barker,1,0,0,1,0,0,1,0,2,0,,5,10,L,-4
+2017,Round robin,Draw 17,PEI,MacPhee,0,1,1,0,2,1,0,1,0,3,,9,10,W,4
+2017,Round robin,Draw 17,NS,Mattattall,0,0,1,0,1,0,0,2,0,,,4,9,L,-3
+2017,Round robin,Draw 17,NL,Curtis,0,1,0,1,0,1,1,0,3,,,7,9,W,3
+2017,Round robin,Draw 17,NWT,Galusha,0,0,1,0,2,0,2,1,0,,,6,9,L,-4
+2017,Round robin,Draw 17,NON,McCarville,3,1,0,2,0,3,0,0,1,,,10,9,W,4
+2017,Playoffs,1 vs. 2,MAN,Englot,2,0,2,1,0,3,0,1,0,0,,9,10,W,1
+2017,Playoffs,1 vs. 2,ONT,Homan,0,2,0,0,2,0,2,0,1,1,,8,10,L,-1
+2017,Playoffs,3 vs. 4,CAN,Carey,0,0,0,0,0,0,0,1,0,,,1,9,L,-7
+2017,Playoffs,3 vs. 4,NON,McCarville,0,0,1,1,2,3,0,0,1,,,8,9,W,7
+2017,Playoffs,Semifinal,NON,McCarville,0,0,2,0,0,0,1,1,0,1,,5,10,L,-2
+2017,Playoffs,Semifinal,ONT,Homan,0,4,0,0,2,0,0,0,1,0,,7,10,W,2
+2017,Playoffs,Third place,CAN,Carey,0,1,0,0,0,3,2,0,1,,,7,9,W,3
+2017,Playoffs,Third place,NON,McCarville,1,0,0,0,1,0,0,2,0,,,4,9,L,-3
+2017,Playoffs,Final,MAN,Englot,1,0,1,0,1,0,1,0,0,2,0,6,11,L,-2
+2017,Playoffs,Final,ONT,Homan,0,3,0,0,0,0,0,2,1,0,2,8,11,W,2
+2016,Pre-qualifying,Draw 1,NUN,Chislett,2,0,1,0,3,0,1,0,1,0,,8,10,W,1
+2016,Pre-qualifying,Draw 1,BC,Thompson,0,1,0,1,0,2,0,2,0,1,,7,10,L,-1
+2016,Pre-qualifying,Draw 1,NWT,Galusha,1,0,1,3,0,2,0,0,1,2,,10,10,W,3
+2016,Pre-qualifying,Draw 1,YUK,Baldwin,0,1,0,0,4,0,1,1,0,0,,7,10,L,-3
+2016,Pre-qualifying,Draw 2,BC,Thompson,1,0,2,0,2,1,2,0,0,,,8,9,W,4
+2016,Pre-qualifying,Draw 2,YUK,Baldwin,0,1,0,1,0,0,0,1,1,,,4,9,L,-4
+2016,Pre-qualifying,Draw 2,NUN,Chislett,0,1,0,0,0,0,0,1,,,,2,8,L,-11
+2016,Pre-qualifying,Draw 2,NWT,Galusha,3,0,2,0,3,3,2,0,,,,13,8,W,11
+2016,Pre-qualifying,Draw 3,YUK,Baldwin,2,0,0,1,1,2,3,3,,,,12,8,W,11
+2016,Pre-qualifying,Draw 3,NUN,Chislett,0,0,1,0,0,0,0,0,,,,1,8,L,-11
+2016,Pre-qualifying,Draw 3,BC,Thompson,0,0,1,0,2,0,0,3,0,0,2,8,11,W,2
+2016,Pre-qualifying,Draw 3,NWT,Galusha,1,1,0,1,0,1,0,0,1,1,0,6,11,L,-2
+2016,Pre-qualifying,Final,BC,Thompson,0,1,0,0,3,0,1,0,2,1,,8,10,W,3
+2016,Pre-qualifying,Final,NWT,Galusha,0,0,1,0,0,2,0,2,0,0,,5,10,L,-3
+2016,Round robin,Draw 1,QUE,Larouche,0,1,0,2,0,0,2,0,4,,,9,9,W,4
+2016,Round robin,Draw 1,ONT,Hanna,1,0,1,0,1,1,0,1,0,,,5,9,L,-4
+2016,Round robin,Draw 1,ALTA,Carey,0,1,4,0,1,0,1,0,5,,,12,9,W,7
+2016,Round robin,Draw 1,CAN,Jones,0,0,0,1,0,1,0,3,0,,,5,9,L,-7
+2016,Round robin,Draw 1,SSK,Campbell,0,1,0,5,0,0,4,0,1,,,11,9,W,4
+2016,Round robin,Draw 1,NS,Brothers,1,0,2,0,0,2,0,2,0,,,7,9,L,-4
+2016,Round robin,Draw 2,PEI,Birt,1,0,0,6,0,1,0,0,1,,,9,9,W,4
+2016,Round robin,Draw 2,NL,Curtis,0,0,1,0,2,0,1,1,0,,,5,9,L,-4
+2016,Round robin,Draw 2,NON,McCarville,0,0,2,0,1,0,1,0,1,1,,6,10,W,3
+2016,Round robin,Draw 2,NB,Robichaud,0,0,0,1,0,0,0,2,0,0,,3,10,L,-3
+2016,Round robin,Draw 2,BC,Thompson,1,0,0,0,0,0,0,1,,,,2,8,L,-8
+2016,Round robin,Draw 2,MAN,Einarson,0,3,0,0,1,2,4,0,,,,10,8,W,8
+2016,Round robin,Draw 3,NS,Brothers,0,0,1,3,4,1,0,0,,,,9,8,W,6
+2016,Round robin,Draw 3,MAN,Einarson,0,1,0,0,0,0,1,1,,,,3,8,L,-6
+2016,Round robin,Draw 3,NL,Curtis,0,0,0,0,1,1,0,0,2,0,,4,10,L,-2
+2016,Round robin,Draw 3,ALTA,Carey,0,2,1,1,0,0,0,1,0,1,,6,10,W,2
+2016,Round robin,Draw 3,SSK,Campbell,0,0,2,0,0,2,0,1,0,0,,5,10,L,-1
+2016,Round robin,Draw 3,ONT,Hanna,0,0,0,0,2,0,1,0,2,1,,6,10,W,1
+2016,Round robin,Draw 3,CAN,Jones,1,0,2,0,2,0,2,0,2,,,9,9,W,5
+2016,Round robin,Draw 3,PEI,Birt,0,1,0,1,0,1,0,1,0,,,4,9,L,-5
+2016,Round robin,Draw 4,BC,Thompson,0,0,0,2,0,0,1,0,2,,,5,9,L,-3
+2016,Round robin,Draw 4,ALTA,Carey,0,2,1,0,2,0,0,3,0,,,8,9,W,3
+2016,Round robin,Draw 4,QUE,Larouche,0,2,0,3,4,0,1,0,,,,10,8,W,6
+2016,Round robin,Draw 4,SSK,Campbell,1,0,1,0,0,1,0,1,,,,4,8,L,-6
+2016,Round robin,Draw 4,NS,Brothers,0,2,1,1,0,1,0,2,0,0,0,7,11,L,-2
+2016,Round robin,Draw 4,NON,McCarville,0,0,0,0,1,0,2,0,2,2,2,9,11,W,2
+2016,Round robin,Draw 4,NL,Curtis,0,0,1,0,0,2,0,1,0,,,4,9,L,-3
+2016,Round robin,Draw 4,NB,Robichaud,0,2,0,0,2,0,1,0,2,,,7,9,W,3
+2016,Round robin,Draw 5,NON,McCarville,1,0,1,0,2,0,1,1,0,2,,8,10,W,1
+2016,Round robin,Draw 5,CAN,Jones,0,2,0,2,0,2,0,0,1,0,,7,10,L,-1
+2016,Round robin,Draw 5,ONT,Hanna,0,0,1,0,0,1,1,0,0,,,3,9,L,-2
+2016,Round robin,Draw 5,MAN,Einarson,0,0,0,3,2,0,0,0,0,,,5,9,W,2
+2016,Round robin,Draw 5,PEI,Birt,0,2,4,0,0,0,1,0,1,0,1,9,11,W,1
+2016,Round robin,Draw 5,NB,Robichaud,1,0,0,1,1,0,0,3,0,2,0,8,11,L,-1
+2016,Round robin,Draw 5,QUE,Larouche,1,1,1,0,1,0,0,0,2,0,,6,10,L,-1
+2016,Round robin,Draw 5,BC,Thompson,0,0,0,2,0,0,2,2,0,1,,7,10,W,1
+2016,Round robin,Draw 6,SSK,Campbell,0,0,1,0,4,0,2,0,,,,7,8,W,4
+2016,Round robin,Draw 6,NB,Robichaud,0,0,0,1,0,1,0,1,,,,3,8,L,-4
+2016,Round robin,Draw 6,NS,Brothers,1,0,0,2,0,1,0,0,0,3,,7,10,W,3
+2016,Round robin,Draw 6,BC,Thompson,0,0,1,0,1,0,1,0,1,0,,4,10,L,-3
+2016,Round robin,Draw 6,NL,Curtis,1,0,2,0,2,3,0,0,2,,,10,9,W,4
+2016,Round robin,Draw 6,QUE,Larouche,0,1,0,2,0,0,1,2,0,,,6,9,L,-4
+2016,Round robin,Draw 6,ALTA,Carey,0,0,3,3,0,0,2,1,0,0,,9,10,W,1
+2016,Round robin,Draw 6,NON,McCarville,0,2,0,0,2,1,0,0,2,1,,8,10,L,-1
+2016,Round robin,Draw 7,ALTA,Carey,0,1,0,0,1,0,0,1,0,2,,5,10,W,1
+2016,Round robin,Draw 7,PEI,Birt,0,0,1,1,0,1,0,0,1,0,,4,10,L,-1
+2016,Round robin,Draw 7,CAN,Jones,1,0,2,0,1,0,1,0,0,1,,6,10,W,2
+2016,Round robin,Draw 7,NL,Curtis,0,1,0,1,0,1,0,0,1,0,,4,10,L,-2
+2016,Round robin,Draw 7,MAN,Einarson,0,0,1,0,0,2,0,1,0,,,4,9,L,-4
+2016,Round robin,Draw 7,SSK,Campbell,0,1,0,3,1,0,1,0,2,,,8,9,W,4
+2016,Round robin,Draw 7,NS,Brothers,1,1,0,4,1,1,0,0,0,0,,8,10,W,1
+2016,Round robin,Draw 7,ONT,Hanna,0,0,2,0,0,0,1,2,1,1,,7,10,L,-1
+2016,Round robin,Draw 8,ONT,Hanna,0,0,2,0,0,1,0,0,2,1,,6,10,W,1
+2016,Round robin,Draw 8,BC,Thompson,0,1,0,1,2,0,1,0,0,0,,5,10,L,-1
+2016,Round robin,Draw 8,MAN,Einarson,0,1,1,0,1,0,0,2,0,0,,5,10,L,-1
+2016,Round robin,Draw 8,QUE,Larouche,0,0,0,3,0,1,0,0,0,2,,6,10,W,1
+2016,Round robin,Draw 8,NON,McCarville,0,2,1,0,2,4,0,0,0,1,,10,10,W,2
+2016,Round robin,Draw 8,PEI,Birt,4,0,0,2,0,0,0,0,2,0,,8,10,L,-2
+2016,Round robin,Draw 8,NB,Robichaud,2,0,1,0,1,0,1,0,1,,,6,9,L,-3
+2016,Round robin,Draw 8,CAN,Jones,0,5,0,1,0,2,0,1,0,,,9,9,W,3
+2016,Round robin,Draw 9,NL,Curtis,0,1,0,0,1,0,1,0,1,,,4,9,L,-3
+2016,Round robin,Draw 9,NON,McCarville,0,0,0,3,0,2,0,2,0,,,7,9,W,3
+2016,Round robin,Draw 9,NB,Robichaud,0,0,2,1,0,1,0,0,0,0,,4,10,L,-2
+2016,Round robin,Draw 9,ALTA,Carey,0,2,0,0,2,0,1,0,0,1,,6,10,W,2
+2016,Round robin,Draw 9,QUE,Larouche,0,0,1,0,1,0,1,0,0,2,,5,10,W,1
+2016,Round robin,Draw 9,NS,Brothers,0,0,0,1,0,2,0,1,0,0,,4,10,L,-1
+2016,Round robin,Draw 9,BC,Thompson,0,2,0,1,0,1,0,0,2,1,,7,10,L,-1
+2016,Round robin,Draw 9,SSK,Campbell,1,0,1,0,4,0,1,1,0,0,,8,10,W,1
+2016,Round robin,Draw 10,CAN,Jones,1,2,0,2,0,5,0,1,,,,11,8,W,6
+2016,Round robin,Draw 10,SSK,Campbell,0,0,2,0,1,0,2,0,,,,5,8,L,-6
+2016,Round robin,Draw 10,NS,Brothers,0,1,0,1,0,2,0,3,0,,,7,9,W,2
+2016,Round robin,Draw 10,PEI,Birt,0,0,2,0,1,0,1,0,1,,,5,9,L,-2
+2016,Round robin,Draw 10,ONT,Hanna,1,0,0,2,2,0,0,2,0,,,7,9,W,2
+2016,Round robin,Draw 10,ALTA,Carey,0,1,0,0,0,1,2,0,1,,,5,9,L,-2
+2016,Round robin,Draw 10,MAN,Einarson,0,0,3,0,2,0,1,2,0,,,8,9,W,3
+2016,Round robin,Draw 10,NL,Curtis,0,1,0,1,0,1,0,0,2,,,5,9,L,-3
+2016,Round robin,Draw 11,NB,Robichaud,0,2,0,1,0,1,0,1,2,0,,7,10,L,-1
+2016,Round robin,Draw 11,NS,Brothers,0,0,2,0,4,0,1,0,0,1,,8,10,W,1
+2016,Round robin,Draw 11,SSK,Campbell,0,0,2,0,0,0,1,0,2,1,,6,10,W,1
+2016,Round robin,Draw 11,NON,McCarville,0,1,0,1,1,1,0,1,0,0,,5,10,L,-1
+2016,Round robin,Draw 11,BC,Thompson,0,0,3,0,2,0,0,2,0,0,,7,10,L,-3
+2016,Round robin,Draw 11,NL,Curtis,2,2,0,2,0,0,2,0,0,2,,10,10,W,3
+2016,Round robin,Draw 11,QUE,Larouche,0,0,1,2,0,0,1,0,0,,,4,9,L,-2
+2016,Round robin,Draw 11,ALTA,Carey,0,2,0,0,0,1,0,2,1,,,6,9,W,2
+2016,Round robin,Draw 12,MAN,Einarson,0,3,1,0,1,0,2,1,0,3,,11,10,W,4
+2016,Round robin,Draw 12,ALTA,Carey,1,0,0,2,0,2,0,0,2,0,,7,10,L,-4
+2016,Round robin,Draw 12,NL,Curtis,0,0,1,0,1,0,1,0,1,1,,5,10,W,1
+2016,Round robin,Draw 12,ONT,Hanna,0,2,0,1,0,1,0,0,0,0,,4,10,L,-1
+2016,Round robin,Draw 12,NS,Brothers,0,2,0,0,0,1,0,0,2,0,,5,10,L,-2
+2016,Round robin,Draw 12,CAN,Jones,1,0,1,0,1,0,0,2,0,2,,7,10,W,2
+2016,Round robin,Draw 12,SSK,Campbell,0,0,0,3,1,0,1,0,1,0,,6,10,L,-1
+2016,Round robin,Draw 12,PEI,Birt,1,0,1,0,0,1,0,3,0,1,,7,10,W,1
+2016,Round robin,Draw 13,BC,Thompson,0,0,0,2,0,0,0,1,1,,,4,9,L,-2
+2016,Round robin,Draw 13,PEI,Birt,0,2,1,0,1,0,2,0,0,,,6,9,W,2
+2016,Round robin,Draw 13,QUE,Larouche,1,0,0,1,0,0,1,0,,,,3,8,L,-7
+2016,Round robin,Draw 13,CAN,Jones,0,2,3,0,1,1,0,3,,,,10,8,W,7
+2016,Round robin,Draw 13,MAN,Einarson,0,3,1,0,1,0,0,3,0,1,,9,10,W,3
+2016,Round robin,Draw 13,NON,McCarville,1,0,0,4,0,1,0,0,0,0,,6,10,L,-3
+2016,Round robin,Draw 13,ONT,Hanna,0,1,0,1,0,2,0,1,0,1,,6,10,W,2
+2016,Round robin,Draw 13,NB,Robichaud,0,0,1,0,1,0,1,0,1,0,,4,10,L,-2
+2016,Round robin,Draw 14,SSK,Campbell,0,0,1,1,0,2,0,3,1,,,8,9,W,4
+2016,Round robin,Draw 14,NL,Curtis,0,2,0,0,1,0,1,0,0,,,4,9,L,-4
+2016,Round robin,Draw 14,ALTA,Carey,2,0,4,0,1,0,0,1,,,,8,8,W,6
+2016,Round robin,Draw 14,NS,Brothers,0,1,0,0,0,1,0,0,,,,2,8,L,-6
+2016,Round robin,Draw 14,NB,Robichaud,1,0,1,0,1,1,0,0,0,2,,6,10,W,1
+2016,Round robin,Draw 14,QUE,Larouche,0,1,0,1,0,0,2,0,1,0,,5,10,L,-1
+2016,Round robin,Draw 14,NON,McCarville,0,0,2,2,0,3,0,3,,,,10,8,W,7
+2016,Round robin,Draw 14,BC,Thompson,1,0,0,0,1,0,1,0,,,,3,8,L,-7
+2016,Round robin,Draw 15,NON,McCarville,0,1,1,0,2,0,1,1,1,,,7,9,W,5
+2016,Round robin,Draw 15,QUE,Larouche,1,0,0,1,0,0,0,0,0,,,2,9,L,-5
+2016,Round robin,Draw 15,NB,Robichaud,1,0,0,1,0,1,0,2,0,,,5,9,L,-2
+2016,Round robin,Draw 15,BC,Thompson,0,2,0,0,2,0,1,0,2,,,7,9,W,2
+2016,Round robin,Draw 15,PEI,Birt,0,0,1,0,0,2,0,2,0,,,5,9,L,-3
+2016,Round robin,Draw 15,ONT,Hanna,0,1,0,2,3,0,1,0,1,,,8,9,W,3
+2016,Round robin,Draw 15,MAN,Einarson,0,2,0,1,0,0,0,1,,,,4,8,L,-4
+2016,Round robin,Draw 15,CAN,Jones,2,0,2,0,0,2,2,0,,,,8,8,W,4
+2016,Round robin,Draw 16,ONT,Hanna,0,0,2,0,0,0,1,0,1,,,4,9,L,-3
+2016,Round robin,Draw 16,CAN,Jones,2,0,0,2,1,1,0,1,0,,,7,9,W,3
+2016,Round robin,Draw 16,PEI,Birt,0,2,0,1,0,0,1,1,1,1,,7,10,L,-1
+2016,Round robin,Draw 16,MAN,Einarson,2,0,3,0,1,2,0,0,0,0,,8,10,W,1
+2016,Round robin,Draw 16,ALTA,Carey,1,0,0,0,1,0,2,0,1,1,,6,10,W,1
+2016,Round robin,Draw 16,SSK,Campbell,0,0,2,1,0,1,0,1,0,0,,5,10,L,-1
+2016,Round robin,Draw 16,NL,Curtis,0,1,0,1,0,2,0,0,0,,,4,9,L,-3
+2016,Round robin,Draw 16,NS,Brothers,0,0,1,0,2,0,1,2,1,,,7,9,W,3
+2016,Round robin,Draw 17,NB,Robichaud,0,0,2,0,2,1,0,0,1,0,,6,10,L,-1
+2016,Round robin,Draw 17,MAN,Einarson,0,1,0,1,0,0,2,0,0,3,,7,10,W,1
+2016,Round robin,Draw 17,ONT,Hanna,1,1,0,0,1,1,0,0,1,1,,6,10,W,2
+2016,Round robin,Draw 17,NON,McCarville,0,0,0,2,0,0,2,0,0,0,,4,10,L,-2
+2016,Round robin,Draw 17,CAN,Jones,1,0,2,0,2,0,3,3,,,,11,8,W,7
+2016,Round robin,Draw 17,BC,Thompson,0,1,0,2,0,1,0,0,,,,4,8,L,-7
+2016,Round robin,Draw 17,PEI,Birt,0,1,0,0,0,0,0,1,0,,,2,9,L,-5
+2016,Round robin,Draw 17,QUE,Larouche,0,0,0,3,0,2,1,0,1,,,7,9,W,5
+2016,Playoffs,1 vs. 2,ALTA,Carey,2,0,0,0,2,1,0,2,0,,,7,9,W,2
+2016,Playoffs,1 vs. 2,CAN,Jones,0,1,0,0,0,0,1,0,3,,,5,9,L,-2
+2016,Playoffs,3 vs. 4,MAN,Einarson,0,1,0,2,1,0,1,0,0,0,,5,10,L,-2
+2016,Playoffs,3 vs. 4,NON,McCarville,0,0,1,0,0,1,0,2,1,2,,7,10,W,2
+2016,Playoffs,Semifinal,CAN,Jones,2,0,2,0,0,0,1,0,0,0,,5,10,L,-2
+2016,Playoffs,Semifinal,NON,McCarville,0,1,0,1,0,1,0,1,2,1,,7,10,W,2
+2016,Playoffs,Third place,CAN,Jones,2,0,0,2,0,1,0,2,0,1,,8,10,W,1
+2016,Playoffs,Third place,MAN,Einarson,0,1,1,0,3,0,1,0,1,0,,7,10,L,-1
+2016,Playoffs,Final,ALTA,Carey,0,1,0,2,0,1,0,2,0,1,,7,10,W,1
+2016,Playoffs,Final,NON,McCarville,0,0,1,0,2,0,2,0,1,0,,6,10,L,-1
+2015,Pre-qualifying,Draw 1,NWT,Galusha,1,0,0,0,2,0,0,2,0,,,5,9,L,-5
+2015,Pre-qualifying,Draw 1,NON,Horgan,0,2,2,2,0,1,2,0,1,,,10,9,W,5
+2015,Pre-qualifying,Draw 2,NON,Horgan,0,0,1,0,2,2,0,2,0,,,7,9,W,2
+2015,Pre-qualifying,Draw 2,YUK,Koltun,0,0,0,2,0,0,2,0,1,,,5,9,L,-2
+2015,Pre-qualifying,Draw 3,YUK,Koltun,0,1,1,0,2,1,0,1,0,4,0,10,11,L,-1
+2015,Pre-qualifying,Draw 3,NWT,Galusha,2,0,0,1,0,0,5,0,2,0,1,11,11,W,1
+2015,Pre-qualifying,Final,NON,Horgan,0,1,0,0,2,3,0,1,0,0,,7,10,W,1
+2015,Pre-qualifying,Final,NWT,Galusha,0,0,1,1,0,0,2,0,1,1,,6,10,L,-1
+2015,Round robin,Draw 1,BC,Knezevic,0,0,0,0,1,0,1,0,,,,2,8,L,-6
+2015,Round robin,Draw 1,SSK,Lawton,1,2,1,1,0,2,0,1,,,,8,8,W,6
+2015,Round robin,Draw 1,CAN,Homan ,0,2,0,2,1,0,0,1,0,,,6,9,W,2
+2015,Round robin,Draw 1,QUE,Mann,0,0,1,0,0,1,0,0,2,,,4,9,L,-2
+2015,Round robin,Draw 1,NS,Arsenault,0,0,4,0,0,0,3,0,5,,,12,9,W,5
+2015,Round robin,Draw 1,NL,Strong,2,1,0,0,2,1,0,1,0,,,7,9,L,-5
+2015,Round robin,Draw 2,NB,Robichaud,0,0,0,0,0,2,0,0,,,,2,8,L,-6
+2015,Round robin,Draw 2,PEI,Birt ,0,0,0,2,3,0,1,2,,,,8,8,W,6
+2015,Round robin,Draw 2,MAN,Jones,1,0,2,0,3,0,0,0,0,1,,7,10,W,2
+2015,Round robin,Draw 2,ONT,Hastings ,0,0,0,1,0,1,1,1,1,0,,5,10,L,-2
+2015,Round robin,Draw 2,ALTA,Sweeting ,2,1,0,0,0,0,2,0,0,1,,6,10,W,2
+2015,Round robin,Draw 2,NON,Horgan,0,0,0,2,0,0,0,1,1,0,,4,10,L,-2
+2015,Round robin,Draw 2,SSK,Lawton,0,0,0,1,0,0,1,0,1,0,,3,10,L,-3
+2015,Round robin,Draw 2,CAN,Homan ,0,2,0,0,2,0,0,1,0,1,,6,10,W,3
+2015,Round robin,Draw 3,ALTA,Sweeting ,2,0,0,1,0,1,0,2,0,0,,6,10,W,1
+2015,Round robin,Draw 3,NS,Arsenault,0,1,0,0,1,0,1,0,1,1,,5,10,L,-1
+2015,Round robin,Draw 3,QUE,Mann ,0,1,1,0,1,2,1,2,,,,8,8,W,7
+2015,Round robin,Draw 3,BC,Knezevic,0,0,0,1,0,0,0,0,,,,1,8,L,-7
+2015,Round robin,Draw 3,NB,Robichaud ,1,0,0,0,0,1,1,1,0,0,,4,10,L,-1
+2015,Round robin,Draw 3,NL,Strong,0,0,0,1,1,0,0,0,1,2,,5,10,W,1
+2015,Round robin,Draw 4,QUE,Mann,0,0,3,0,0,1,0,2,0,,,6,9,L,-4
+2015,Round robin,Draw 4,NON,Horgan ,2,1,0,2,1,0,3,0,1,,,10,9,W,4
+2015,Round robin,Draw 4,NL,Strong ,1,0,3,0,1,0,1,0,1,,,7,9,W,3
+2015,Round robin,Draw 4,PEI,Birt,0,1,0,1,0,1,0,1,0,,,4,9,L,-3
+2015,Round robin,Draw 4,ONT,Hastings ,0,1,0,2,0,0,0,3,1,0,1,8,11,W,1
+2015,Round robin,Draw 4,NS,Arsenault,0,0,1,0,1,1,2,0,0,2,0,7,11,L,-1
+2015,Round robin,Draw 4,MAN,Jones ,0,2,1,3,3,1,0,1,,,,11,8,W,9
+2015,Round robin,Draw 4,BC,Knezevic,1,0,0,0,0,0,1,0,,,,2,8,L,-9
+2015,Round robin,Draw 5,CAN,Homan ,0,0,3,0,2,0,2,0,1,2,,10,10,W,3
+2015,Round robin,Draw 5,ONT,Hastings,1,1,0,2,0,1,0,2,0,0,,7,10,L,-3
+2015,Round robin,Draw 5,ALTA,Sweeting ,3,0,2,1,3,0,1,0,,,,10,8,W,6
+2015,Round robin,Draw 5,NB,Robichaud,0,2,0,0,0,1,0,1,,,,4,8,L,-6
+2015,Round robin,Draw 5,MAN,Jones ,2,1,0,0,0,1,0,2,0,1,,7,10,W,3
+2015,Round robin,Draw 5,SSK,Lawton,0,0,0,0,2,0,1,0,1,0,,4,10,L,-3
+2015,Round robin,Draw 5,NON,Horgan,0,1,0,0,1,0,2,1,0,,,5,9,L,-2
+2015,Round robin,Draw 5,PEI,Birt ,2,0,2,1,0,1,0,0,1,,,7,9,W,2
+2015,Round robin,Draw 6,MAN,Jones ,2,0,0,1,0,1,5,0,,,,9,8,W,6
+2015,Round robin,Draw 6,NL,Strong,0,1,0,0,1,0,0,1,,,,3,8,L,-6
+2015,Round robin,Draw 6,NS,Arsenault,0,1,0,0,0,1,0,2,0,,,4,9,L,-4
+2015,Round robin,Draw 6,NON,Horgan ,2,0,0,2,1,0,2,0,1,,,8,9,W,4
+2015,Round robin,Draw 6,PEI,Birt,0,1,0,0,1,0,2,0,0,,,4,9,L,-3
+2015,Round robin,Draw 6,BC,Knezevic ,1,0,0,1,0,1,0,2,2,,,7,9,W,3
+2015,Round robin,Draw 6,ONT,Hastings,0,2,0,1,0,0,2,1,0,0,,6,10,W,1
+2015,Round robin,Draw 6,QUE,Mann ,1,0,0,0,1,2,0,0,1,0,,5,10,L,-1
+2015,Round robin,Draw 7,SSK,Lawton ,0,2,1,1,1,0,2,0,1,,,8,9,W,5
+2015,Round robin,Draw 7,QUE,Mann,0,0,0,0,0,2,0,1,0,,,3,9,L,-5
+2015,Round robin,Draw 7,BC,Knezevic,0,0,1,0,0,0,0,2,,,,3,8,L,-5
+2015,Round robin,Draw 7,CAN,Homan ,1,1,0,0,4,1,1,0,,,,8,8,W,5
+2015,Round robin,Draw 7,NL,Strong,0,1,0,1,0,0,0,0,,,,2,8,L,-5
+2015,Round robin,Draw 7,ALTA,Sweeting ,2,0,2,0,0,1,0,2,,,,7,8,W,5
+2015,Round robin,Draw 7,NB,Robichaud,0,0,0,1,0,0,1,0,2,0,,4,10,L,-1
+2015,Round robin,Draw 7,NS,Arsenault ,1,0,0,0,0,2,0,1,0,1,,5,10,W,1
+2015,Round robin,Draw 8,NON,Horgan ,3,0,0,2,1,0,2,0,,,,8,8,W,4
+2015,Round robin,Draw 8,NB,Robichaud,0,1,0,0,0,1,0,2,,,,4,8,L,-4
+2015,Round robin,Draw 8,PEI,Birt,0,0,0,1,1,0,1,0,2,0,,5,10,L,-1
+2015,Round robin,Draw 8,ALTA,Sweeting ,0,0,3,0,0,1,0,1,0,1,,6,10,W,1
+2015,Round robin,Draw 8,SSK,Lawton ,0,1,0,1,0,1,0,0,0,1,,4,10,W,1
+2015,Round robin,Draw 8,ONT,Hastings,0,0,1,0,1,0,0,1,0,0,,3,10,L,-1
+2015,Round robin,Draw 8,CAN,Homan ,1,0,1,0,2,0,0,2,0,1,0,7,11,L,-1
+2015,Round robin,Draw 8,MAN,Jones ,0,3,0,1,0,2,0,0,1,0,1,8,11,W,1
+2015,Round robin,Draw 9,ONT,Hastings,0,2,0,2,0,1,0,2,2,,,9,9,W,5
+2015,Round robin,Draw 9,BC,Knezevic ,1,0,1,0,1,0,1,0,0,,,4,9,L,-5
+2015,Round robin,Draw 9,QUE,Mann ,0,1,0,0,0,1,0,1,,,,3,8,L,-6
+2015,Round robin,Draw 9,MAN,Jones,1,0,1,2,4,0,1,0,,,,9,8,W,6
+2015,Round robin,Draw 9,NS,Arsenault ,2,0,0,1,0,0,0,1,1,0,,5,10,L,-1
+2015,Round robin,Draw 9,PEI,Birt,0,0,1,0,2,1,1,0,0,1,,6,10,W,1
+2015,Round robin,Draw 9,NL,Strong,1,0,1,0,1,1,0,1,0,1,,6,10,W,2
+2015,Round robin,Draw 9,NON,Horgan ,0,1,0,1,0,0,1,0,1,0,,4,10,L,-2
+2015,Round robin,Draw 10,NL,Strong ,0,0,0,3,0,0,0,2,,,,5,8,L,-6
+2015,Round robin,Draw 10,CAN,Homan,2,0,3,0,0,0,6,0,,,,11,8,W,6
+2015,Round robin,Draw 10,SSK,Lawton ,0,0,2,0,1,0,1,0,0,2,,6,10,W,1
+2015,Round robin,Draw 10,NS,Arsenault,0,1,0,1,0,1,0,1,1,0,,5,10,L,-1
+2015,Round robin,Draw 10,QUE,Mann,0,3,0,1,0,1,0,0,3,0,0,8,11,L,-1
+2015,Round robin,Draw 10,NB,Robichaud ,2,0,1,0,2,0,1,1,0,1,1,9,11,W,1
+2015,Round robin,Draw 10,BC,Knezevic ,0,0,2,0,2,0,1,0,0,,,5,9,L,-5
+2015,Round robin,Draw 10,ALTA,Sweeting,0,1,0,3,0,3,0,0,3,,,10,9,W,5
+2015,Round robin,Draw 11,NS,Arsenault ,1,0,2,0,2,0,0,3,0,1,,9,10,W,3
+2015,Round robin,Draw 11,MAN,Jones,0,1,0,1,0,1,1,0,2,0,,6,10,L,-3
+2015,Round robin,Draw 11,ONT,Hastings,1,0,1,1,1,1,0,0,2,,,7,9,W,3
+2015,Round robin,Draw 11,NL,Strong ,0,1,0,0,0,0,2,1,0,,,4,9,L,-3
+2015,Round robin,Draw 11,BC,Knezevic ,0,2,0,1,0,2,0,0,0,,,5,9,L,-2
+2015,Round robin,Draw 11,NON,Horgan,1,0,1,0,2,0,1,1,1,,,7,9,W,2
+2015,Round robin,Draw 11,QUE,Mann ,2,0,0,0,1,1,0,2,0,,,6,9,L,-4
+2015,Round robin,Draw 11,PEI,Birt,0,4,1,2,0,0,2,0,1,,,10,9,W,4
+2015,Round robin,Draw 12,QUE,Mann ,1,0,2,0,1,0,0,1,0,1,,6,10,L,-2
+2015,Round robin,Draw 12,ALTA,Sweeting,0,2,0,1,0,1,2,0,2,0,,8,10,W,2
+2015,Round robin,Draw 12,NB,Robichaud ,2,0,1,0,2,0,1,0,1,0,1,8,11,W,1
+2015,Round robin,Draw 12,BC,Knezevic,0,1,0,2,0,1,0,2,0,1,0,7,11,L,-1
+2015,Round robin,Draw 12,CAN,Homan ,0,1,0,1,0,0,2,0,1,1,,6,10,L,-1
+2015,Round robin,Draw 12,NS,Arsenault,0,0,2,0,0,4,0,1,0,0,,7,10,W,1
+2015,Round robin,Draw 12,SSK,Lawton,0,0,0,0,2,0,1,0,1,,,4,9,W,2
+2015,Round robin,Draw 12,NL,Strong ,0,0,1,1,0,0,0,0,0,,,2,9,L,-2
+2015,Round robin,Draw 13,SSK,Lawton,0,0,1,0,1,0,1,1,0,1,0,5,11,L,-1
+2015,Round robin,Draw 13,NON,Horgan ,1,0,0,1,0,2,0,0,1,0,1,6,11,W,1
+2015,Round robin,Draw 13,CAN,Homan ,0,2,0,1,0,3,0,1,2,,,9,9,W,4
+2015,Round robin,Draw 13,PEI,Birt,0,0,1,0,1,0,3,0,0,,,5,9,L,-4
+2015,Round robin,Draw 13,ONT,Hastings ,0,0,2,1,0,0,0,1,1,,,5,9,L,-3
+2015,Round robin,Draw 13,ALTA,Sweeting,1,3,0,0,1,1,2,0,0,,,8,9,W,3
+2015,Round robin,Draw 13,MAN,Jones ,3,0,1,0,3,0,1,0,1,0,,9,10,W,2
+2015,Round robin,Draw 13,NB,Robichaud,0,2,0,2,0,1,0,1,0,1,,7,10,L,-2
+2015,Round robin,Draw 14,BC,Knezevic ,1,0,2,0,2,0,0,2,0,0,,7,10,L,-3
+2015,Round robin,Draw 14,NL,Strong,0,2,0,1,0,1,2,0,2,2,,10,10,W,3
+2015,Round robin,Draw 14,NS,Arsenault,0,0,2,1,0,0,1,1,2,0,,7,10,L,-1
+2015,Round robin,Draw 14,QUE,Mann ,0,1,0,0,3,3,0,0,0,1,,8,10,W,1
+2015,Round robin,Draw 14,PEI,Birt,0,1,0,0,0,1,0,,,,,2,7,L,-8
+2015,Round robin,Draw 14,MAN,Jones ,3,0,1,3,2,0,1,,,,,10,7,W,8
+2015,Round robin,Draw 14,NON,Horgan,0,3,0,1,2,0,0,2,0,1,,9,10,W,2
+2015,Round robin,Draw 14,ONT,Hastings ,1,0,2,0,0,2,1,0,1,0,,7,10,L,-2
+2015,Round robin,Draw 15,PEI,Birt,0,1,1,1,0,2,0,0,1,0,,6,10,L,-2
+2015,Round robin,Draw 15,ONT,Hastings ,0,0,0,0,2,0,2,2,0,2,,8,10,W,2
+2015,Round robin,Draw 15,NON,Horgan ,1,0,0,0,1,0,0,0,1,,,3,9,L,-3
+2015,Round robin,Draw 15,MAN,Jones ,0,0,2,1,0,3,0,0,0,,,6,9,W,3
+2015,Round robin,Draw 15,NB,Robichaud,0,1,0,2,0,1,0,0,,,,4,8,L,-5
+2015,Round robin,Draw 15,SSK,Lawton ,2,0,1,0,3,0,2,1,,,,9,8,W,5
+2015,Round robin,Draw 15,ALTA,Sweeting,1,0,2,0,0,1,0,1,0,2,,7,10,W,1
+2015,Round robin,Draw 15,CAN,Homan ,0,1,0,1,1,0,2,0,1,0,,6,10,L,-1
+2015,Round robin,Draw 16,CAN,Homan,0,0,0,1,1,0,2,1,0,0,,5,10,L,-1
+2015,Round robin,Draw 16,NB,Robichaud ,0,1,2,0,0,1,0,0,0,2,,6,10,W,1
+2015,Round robin,Draw 16,ALTA,Sweeting,0,0,1,0,0,0,0,0,,,,1,8,L,-8
+2015,Round robin,Draw 16,SSK,Lawton ,2,1,0,2,1,2,0,1,,,,9,8,W,8
+2015,Round robin,Draw 16,NL,Strong,0,1,0,1,1,0,1,0,1,,,5,9,L,-2
+2015,Round robin,Draw 16,QUE,Mann ,1,0,2,0,0,2,0,2,0,,,7,9,W,2
+2015,Round robin,Draw 16,NS,Arsenault,0,2,0,0,2,0,0,0,0,1,,5,10,W,1
+2015,Round robin,Draw 16,BC,Knezevic ,0,0,0,2,0,0,0,1,1,0,,4,10,L,-1
+2015,Round robin,Draw 17,ALTA,Sweeting,0,2,0,0,0,2,0,1,,,,5,8,L,-5
+2015,Round robin,Draw 17,MAN,Jones  ,3,0,1,1,3,0,2,0,,,,10,8,W,5
+2015,Round robin,Draw 17,ONT,Hastings,0,0,1,0,1,0,0,2,1,0,,5,10,L,-4
+2015,Round robin,Draw 17,NB,Robichaud ,0,1,0,1,0,2,2,0,0,3,,9,10,W,4
+2015,Round robin,Draw 17,NON,Horgan ,0,1,1,1,0,1,0,0,0,,,4,9,L,-2
+2015,Round robin,Draw 17,CAN,Homan,1,0,0,0,1,0,2,0,2,,,6,9,W,2
+2015,Round robin,Draw 17,PEI,Birt,1,0,0,2,0,0,0,0,0,1,0,4,11,L,-1
+2015,Round robin,Draw 17,SSK,Lawton ,0,2,1,0,0,0,1,0,0,0,1,5,11,W,1
+2015,Playoffs,1 vs. 2,MAN,Jones ,4,0,0,0,0,1,0,2,0,1,,8,10,W,2
+2015,Playoffs,1 vs. 2,ALTA,Sweeting,0,1,0,1,1,0,2,0,1,0,,6,10,L,-2
+2015,Playoffs,3 vs. 4,SSK,Lawton ,0,0,2,0,0,2,1,0,2,0,1,8,11,W,1
+2015,Playoffs,3 vs. 4,CAN,Homan,0,0,0,2,1,0,0,2,0,2,0,7,11,L,-1
+2015,Playoffs,Semifinal,ALTA,Sweeting ,0,1,0,3,0,2,0,0,1,0,,7,10,W,1
+2015,Playoffs,Semifinal,SSK,Lawton,0,0,1,0,2,0,2,0,0,1,,6,10,L,-1
+2015,Playoffs,Third place,SSK,Lawton ,1,0,1,0,1,0,0,1,1,0,,5,10,L,-2
+2015,Playoffs,Third place,CAN,Homan,0,2,0,2,0,0,2,0,0,1,,7,10,W,2
+2015,Playoffs,Final,MAN,Jones ,2,0,0,1,0,1,0,1,0,1,,6,10,W,1
+2015,Playoffs,Final,ALTA,Sweeting,0,2,0,0,1,0,1,0,1,0,,5,10,L,-1
